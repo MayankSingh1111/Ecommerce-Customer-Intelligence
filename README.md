@@ -151,6 +151,41 @@ The dashboard provides a **comprehensive business overview and customer insights
   * Excel report (`/OUTPUT/REPORTS`)
 
 ---
+## 📦 Dataset & Reproducibility
+
+Due to GitHub file size limitations, the full dataset is not included in this repository.
+
+### 🔹 How to Generate the Dataset
+
+The cleaned dataset is generated through the data pipeline.
+
+Run the following script:
+
+```bash
+python PYTHON/data_cleaning.py
+```
+
+This will automatically:
+
+* Read raw data from `DATA/RAW/`
+* Clean and transform the data
+* Generate the processed dataset at:
+
+```
+DATA/PROCESSED/cleaned_data.csv
+```
+
+> If the `PROCESSED` folder does not exist, it will be created automatically by the script.
+
+---
+
+### 🔹 Note
+
+* The dataset is reproducible using the provided scripts
+* This ensures a lightweight repository and follows industry best practices
+* All analysis and dashboards are built on the generated dataset
+
+---
 
 ## 📓 Exploratory Data Analysis (EDA)
 
