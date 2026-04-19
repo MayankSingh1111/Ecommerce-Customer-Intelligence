@@ -1,0 +1,4536 @@
+name,total_spent,rank_no
+pooja,2109800.75,1
+jyoti,1331696.25,2
+neha,996121.0,3
+sunita,915543.75,4
+poonam,914285.25,5
+priyanka,819243.25,6
+seema,813087.75,7
+suman,748327.25,8
+komal,698672.75,9
+mamta,688649.5,10
+nisha,685782.25,11
+rekha,667550.0,12
+kajal,662696.5,13
+aarti,661675.25,14
+kavita,637166.25,15
+laxmi,629878.25,16
+manisha,604706.5,17
+pinki,592340.75,18
+preeti,591862.75,19
+anita,585949.5,20
+sangeeta,487571.5,21
+reena,470304.25,22
+kiran,467918.5,23
+renu,467909.75,24
+shivani,452026.75,25
+anjali,435580.25,26
+sapna,434023.5,27
+rajni,429223.0,28
+babita,428550.0,29
+geeta,423557.75,30
+manju,412428.75,31
+monika,411206.0,32
+soni,402027.75,33
+priya,396508.0,34
+neelam,390279.75,35
+deepa,342986.5,36
+sonia,339692.75,37
+radha,338197.0,38
+arti,337684.25,39
+meena,337624.25,40
+rakhi,337423.5,41
+,320784.0,42
+soniya,319734.0,43
+neetu,303653.0,44
+muskan,297238.0,45
+sonam,283012.5,46
+sarita,282317.0,47
+anju,257998.0,48
+heena,254551.0,49
+rani,251587.5,50
+kanchan,249787.75,51
+madhu,246230.25,52
+asha,243533.0,53
+payal,229395.25,54
+rinki,225126.75,55
+lalita,219971.5,56
+priti,208351.5,57
+varsha,207774.5,58
+saroj,205270.75,59
+savita,204552.5,60
+khushbu,202714.25,61
+ritu,200073.75,62
+shalu,193898.75,63
+chandni,188966.5,64
+reshma,186437.75,65
+bharti,186075.0,66
+puja,184957.0,67
+chanchal,181575.25,68
+pushpa,175092.0,69
+sheetal,174827.5,70
+babli,172509.75,71
+maya,169346.75,72
+simran,169136.0,73
+minakshi,167556.5,74
+usha,166912.25,75
+kusum,166748.5,76
+pinky,165762.0,77
+kamlesh,165029.5,78
+geeta devi,164917.75,79
+swati,163502.75,80
+sushma,158395.75,81
+hemlata,157712.5,82
+ruksana,157541.5,83
+sandhya,155772.25,84
+sushila,154878.5,85
+bhawna,153902.5,86
+archana,146905.25,87
+santosh,143206.0,88
+meenu,142163.75,89
+divya,141108.25,90
+rachna,140899.0,91
+gudiya,139304.0,92
+bhawana,138088.0,93
+nikita,137503.75,94
+rubi,133501.75,95
+sonu,132820.5,96
+radhika,127453.5,97
+roshni,125920.75,98
+afsana,124420.0,99
+vimla,123640.5,100
+kamla,122679.25,101
+ruksar,118200.0,102
+shiwani,117482.0,103
+nidhi,117346.5,104
+anuradha,114487.0,105
+ruby,112962.25,106
+khushboo,111145.5,107
+khusbu,109970.5,108
+maya devi,109276.25,109
+sharda,106415.0,110
+barkha,104488.5,111
+sangita,104050.0,112
+rupa,103872.0,113
+meera,103227.0,114
+sanjana,101237.75,115
+munni devi,100623.5,116
+sumitra,100316.5,117
+rahul,100080.75,118
+khushi,98811.5,119
+durga,98570.75,120
+urmila,98036.75,121
+gulshan,97987.75,122
+doli,97844.0,123
+shabana,97554.0,124
+baby,97359.5,125
+raj kumari,96913.25,126
+vandana,94306.75,127
+nagma,93396.0,128
+asha devi,92663.75,129
+laxmi devi,92195.25,130
+sanju,92156.5,131
+roopa,91182.75,132
+sakshi,90563.5,133
+sweta,90474.25,134
+meenakshi,90302.75,135
+deepika,90179.5,136
+rashmi,88878.0,137
+vandna,88835.25,138
+shabnam,87762.5,139
+sheela,84154.25,140
+preety,83567.0,141
+rukhsar,83494.0,142
+karishma,83322.75,143
+annu,83054.0,144
+nirmala,82320.0,145
+anju devi,82276.5,146
+deepak,81766.75,147
+shobha,81525.0,148
+saraswati,81371.25,149
+tannu,81340.25,150
+sanjay,80966.75,151
+sonali,80770.0,152
+hema,80527.5,153
+madhuri,80470.75,154
+shanti devi,80202.25,155
+rajani,79928.75,156
+phooli devi,79818.5,157
+reetu,79443.5,158
+mala,78798.75,159
+sunita devi,77902.0,160
+beena,76379.0,161
+kajol,76286.0,162
+akansha,76005.0,163
+krishna,74709.0,164
+rajkumari,73671.25,165
+reeta,72688.0,166
+anjum,72581.75,167
+ruchi,72186.5,168
+mona,72038.75,169
+parveen,71909.75,170
+manju devi,71865.75,171
+munni,70571.75,172
+shilpa,70325.5,173
+tina,70276.5,174
+ravina,69849.0,175
+gayatri,69534.75,176
+sikha,69484.0,177
+nirma,69371.25,178
+rubina,69249.75,179
+tulsi,69190.0,180
+anjli,68601.5,181
+shashi,68073.0,182
+kiran devi,67860.25,183
+sarita devi,67348.25,184
+himanshi,67282.5,185
+malti,66443.25,186
+yashoda,66199.0,187
+alka,65765.25,188
+vinita,65571.75,189
+tabassum,63599.5,190
+kalpana,63220.5,191
+shikha,62593.0,192
+anita devi,61957.0,193
+bimla,61547.5,194
+neeru,61222.0,195
+vivek,60923.25,196
+mumtaj,60544.0,197
+mansi,60432.0,198
+sahin,59562.0,199
+rihana,59043.25,200
+jaya,58699.25,201
+rohit,58364.5,202
+soni devi,58345.75,203
+hina,58243.75,204
+yogita,58061.0,205
+rima,57799.0,206
+shital,57743.25,207
+seeta,57741.5,208
+meera devi,57549.75,209
+shilpi,57083.0,210
+versha,57068.0,211
+rekha devi,56695.5,212
+kali,56673.75,213
+khusbhu,56071.75,214
+nikki,55948.0,215
+rinku,55664.25,216
+parul,55452.75,217
+rita,55071.0,218
+prem lata,55010.75,219
+sabnam,54920.25,220
+aasha,54875.75,221
+rukhsana,54849.5,222
+mohini,54841.75,223
+uma,54806.75,224
+archna,53915.0,225
+samreen,53617.0,226
+shanti,53408.0,227
+anchal,53373.0,228
+reema,52517.25,229
+roshani,52453.25,230
+indra,52366.5,231
+saima,51767.5,232
+riya,51634.25,233
+jasoda,51563.75,234
+ishika,51217.75,235
+vaishali,50826.25,236
+nirmla,50820.75,237
+shahin,49855.75,238
+ashu,49442.75,239
+kirti,49354.25,240
+santosh devi,49234.5,241
+sita,49195.5,242
+roshan,48995.5,243
+saniya,48892.5,244
+sabina,48891.0,245
+smt. rekha,48424.25,246
+gauri,48079.25,247
+lata,47994.5,248
+pushpa devi,47876.0,249
+ranjana,47825.5,250
+resham,47698.0,251
+manpreet,47635.75,252
+nishu,47518.75,253
+kanta,47373.5,254
+janki,47197.5,255
+sona,47039.75,256
+partibha,47014.75,257
+ganga devi,46814.0,258
+guddi,46789.0,259
+jyoti kumari,46693.25,260
+shalini,46680.75,261
+mithlesh,46502.5,262
+pallavi,46480.0,263
+farjana,46404.75,264
+devki,46284.0,265
+joyti,46159.75,266
+sudha,46133.0,267
+juhi,46126.75,268
+isha,46105.25,269
+sagar,45903.0,270
+savitri,45840.0,271
+manoj kumar,45756.0,272
+shweta,45752.0,273
+reenu,45713.5,274
+parwati,45707.5,275
+salma,45680.5,276
+gaytri,45658.0,277
+naina,45581.25,278
+amit,45560.5,279
+garima,45531.25,280
+himani @ payal,45523.25,281
+anju kumari,45398.5,282
+sita devi,45206.25,283
+kumkum,45060.0,284
+sneha,44944.0,285
+bindu,44936.0,286
+sitara,44864.75,287
+ekta,44851.25,288
+saloni,44803.0,289
+sabana,44630.75,290
+anisha,44584.75,291
+amrita,44548.25,292
+rukmani,44442.25,293
+dinesh,44380.5,294
+sashi,44106.25,295
+neelu,44025.75,296
+khushabu,43675.25,297
+shakshi,43502.25,298
+ajay,43418.25,299
+deepali,43284.0,300
+kamla devi,42769.75,301
+farzana,42738.25,302
+anshu,42646.0,303
+pawan,41796.5,304
+sama parveen,41675.75,305
+seema devi,41568.0,306
+dulari,40367.0,307
+suraj,40276.25,308
+noorjahan,38978.75,309
+soni kumari,38946.75,310
+ridhima,38783.75,311
+bhagwati,38709.25,312
+manu,38688.0,313
+arsi,38193.25,314
+shama,38065.25,315
+krishama,37760.5,316
+anshika,37625.75,317
+ambika,37588.5,318
+maya kumari,37384.0,319
+chahat,37295.25,320
+shehnaz,36780.5,321
+sachin,36569.75,322
+sonika,36479.75,323
+priya kumari,36265.0,324
+kavita devi,36242.75,325
+meti kumari,36123.25,326
+mahak,36074.0,327
+santosh kumari,35998.0,328
+rohit kumar,35981.25,329
+raj kumar,35950.75,330
+kanti devi,35933.75,331
+aaysha,35911.0,332
+nandani,35888.25,333
+shipra,35834.0,334
+haseena,35770.5,335
+aanchal,35703.5,336
+krishan,35653.5,337
+smt sunita,35609.75,338
+leelawati,35448.5,339
+chanda,35412.0,340
+himanshu,35260.25,341
+sudesh,35243.0,342
+lakshmi,35214.5,343
+tarannum,35196.25,344
+khusboo,35192.75,345
+chaya,35145.0,346
+pooja kumari,35127.25,347
+reena devi,35068.0,348
+karan,35057.0,349
+gitika,35018.25,350
+megha,34956.0,351
+gudiya kumari,34948.75,352
+veena,34886.25,353
+smt. manju,34867.5,354
+chanda kumari,34863.5,355
+nitu,34861.75,356
+anupama,34830.5,357
+nargis,34643.25,358
+smt. kavita,34586.75,359
+ramwati,34504.25,360
+sumitra devi,34469.5,361
+punam,34378.75,362
+rukshana,34376.5,363
+kumari neha,34344.0,364
+raj rani,34319.5,365
+bala,34317.25,366
+anjana,34288.25,367
+smt. lalita devi,34266.5,368
+niru,34240.75,369
+tanu,34113.5,370
+shiva,34049.75,371
+rehana,33995.0,372
+pooja devi,33879.5,373
+sana khatoon,33857.25,374
+deepti,33855.75,375
+lali,33844.0,376
+seema bai,33841.25,377
+dolly,33684.5,378
+palak,33674.25,379
+yasmin,33660.75,380
+neha kumari,33620.75,381
+aasmin,33538.25,382
+diksha,33496.0,383
+partima,33390.5,384
+rizwana,33373.75,385
+nandini,33362.75,386
+anu,33346.75,387
+amit kumar,33324.75,388
+ganga,33213.25,389
+saneha,33185.5,390
+bala devi,33180.5,391
+poonam yadav,33180.25,392
+sunil kumar,33155.25,393
+sunita kumari,33122.25,394
+kunti,33086.0,395
+lila,33044.0,396
+shallu,33003.75,397
+yogesh,32993.0,398
+vimlesh,32988.25,399
+jagdish,32904.25,400
+anamika,32869.25,401
+kuldeep,32640.75,402
+nazreen,32560.5,403
+kranti,32331.5,404
+manish,32300.0,405
+marjina,32036.25,406
+smt punam,31894.25,407
+manjeet,31878.5,408
+shabina,31802.5,409
+shakuntla,31784.25,410
+laxmi sharma,31622.75,411
+meena kumari,31505.0,412
+manpreet kaur,31394.75,413
+sarla,31270.25,414
+sania parveen,31182.75,415
+dipika,31129.75,416
+manjeet kaur,31015.0,417
+parwati devi,30845.0,418
+kumari puja,30838.0,419
+sana,30804.5,420
+richa,30173.0,421
+lovely,29775.0,422
+moni,29582.5,423
+chandani,29307.75,424
+bhuri,29052.0,425
+rukshar,28655.25,426
+jeba,28652.75,427
+geet,27550.25,428
+saurabh,27509.5,429
+bablu,27433.0,430
+sonam kumari,27358.75,431
+neha sharma,27061.75,432
+keli devi,26967.25,433
+annu sharma,26798.0,434
+jyoti bai,26549.0,435
+aarti devi,26537.0,436
+smt nisha,26360.5,437
+surbhi,26297.0,438
+neetu devi,26282.75,439
+chandini,26224.0,440
+chetana,26162.25,441
+raja kumar,26159.75,442
+nazma,26158.75,443
+smt monika,25968.0,444
+shanaz,25952.5,445
+shruti,25931.75,446
+shanu,25906.0,447
+shakuntala devi,25878.5,448
+gyatri,25833.0,449
+durga bai,25753.0,450
+gurmit kaur,25743.5,451
+pintu devi,25740.5,452
+kajal kumari,25727.25,453
+smt babbli,25708.75,454
+kumari komal,25675.0,455
+sandeep,25643.25,456
+joity,25641.25,457
+deelip,25606.75,458
+vinod,25555.25,459
+saddam,25543.75,460
+disha,25542.5,461
+goldy,25528.0,462
+sunita kaur,25524.25,463
+aneeta,25485.5,464
+smt prakshi devi,25427.25,465
+baljeet kaur,25424.25,466
+sachin kumar,25409.5,467
+sumaila,25402.5,468
+simranjeet kaur,25392.25,469
+dimple,25323.25,470
+afrin,25317.25,471
+nandni,25296.75,472
+rajiya bano,25294.25,473
+prem,25289.25,474
+vineeta,25286.25,475
+smt pooja,25248.5,476
+raman ralhan,25186.25,477
+preeti chopra,25168.75,478
+aashiya,25156.25,479
+roshan bai,25114.0,480
+kumari rani,25040.75,481
+taslima,25038.25,482
+farha,25024.25,483
+pooja soni,25007.0,484
+amisha,24970.5,485
+sarvesh,24942.0,486
+vijay,24936.0,487
+niranjan,24901.25,488
+upasna,24898.5,489
+rajni devi,24893.0,490
+neeraj,24870.5,491
+raziya,24870.5,491
+smt. asha,24852.25,493
+kumari anjali,24831.75,494
+smt. reena,24763.5,495
+harish chand,24751.5,496
+devender,24729.0,497
+balalia ngadong,24723.5,498
+abida,24704.75,499
+santoshi,24692.5,500
+manju kumari,24680.5,501
+vipin,24679.75,502
+rozi,24627.25,503
+sifa,24622.5,504
+sivani,24613.0,505
+damini,24598.5,506
+anita kumari,24574.5,507
+jai prakash kashyap,24560.75,508
+ramkali,24555.75,509
+poneem,24555.75,509
+amanjeet kour,24521.75,511
+sus shri  aalabndi,24505.25,512
+ravinder kaur,24505.25,512
+manju bai,24498.5,514
+kumari arti,24476.25,515
+leela devi,24474.25,516
+ashish,24448.5,517
+ayush,24444.5,518
+rinku kumari,24408.0,519
+shankar kumar,24382.5,520
+durga devi,24379.25,521
+santosh bai,24359.0,522
+tanya chopra,24353.0,523
+gudia,24341.0,524
+smt puja,24339.5,525
+ajay kumar,24325.75,526
+sabba,24322.75,527
+dinesh singh,24320.25,528
+paramjeet kaur,24315.25,529
+priyanshu,24309.25,530
+sajiya,24295.0,531
+kritika,24293.25,532
+rajwati,24285.5,533
+fatima,24269.75,534
+kumari shakuntala urf chhotan,24263.5,535
+uma devi,24246.75,536
+niraj,24225.5,537
+jitender,24218.25,538
+kumari manju,24214.75,539
+sehnaz,24189.0,540
+guddu,24079.5,541
+smt. mamta,24077.5,542
+rita devi,23997.75,543
+mamta meena,23985.5,544
+shakuntla/baby,23984.25,545
+ruksana bano,23973.75,546
+ranju devi,23969.5,547
+shanjhan,23968.25,548
+dipali,23966.75,549
+smt suman,23952.75,550
+durga kumari,23915.75,551
+asha kumari,23873.25,552
+bhagwati@shinnu,23870.75,553
+jasbir kaur,23869.75,554
+gunjan,23831.5,555
+shama parveen,23807.5,556
+gayatri devi,23804.5,557
+rajina,23798.5,558
+beauty,23789.75,559
+lali @ deepa,23762.0,560
+ankita,23757.25,561
+ombir singh,23745.25,562
+smt gita,23729.5,563
+ranu,23706.5,564
+kaushalya devi,23693.75,565
+bhavana,23683.75,566
+sakila,23681.0,567
+sharda devi,23678.25,568
+safiya,23666.5,569
+ritika rani dass,23655.75,570
+leela,23623.0,571
+rashida khatoon,23615.5,572
+smt sushma,23613.0,573
+nasima,23593.5,574
+anu kumari,23591.0,575
+rubeena,23575.0,576
+bhuri devi,23566.75,577
+arshi,23563.75,578
+ragini,23535.25,579
+laxami,23530.5,580
+aafrin @ dolly,23529.75,581
+kanta devi,23450.25,582
+poonam sharma,23439.5,583
+sheela devi,23438.25,584
+najma  & asma,23435.0,585
+mohseena,23415.0,586
+sama,23393.5,587
+rabiya,23386.75,588
+shahna,23381.25,589
+jyoti sharma,23361.0,590
+farah,23357.25,591
+smt. seema,23309.0,592
+smt. sushma,23308.75,593
+rani devi,23289.0,594
+mamta devi,23279.0,595
+rajkumar,23266.0,596
+smt. hemlata,23258.0,597
+anam,23256.5,598
+monu,23251.75,599
+pinki devi,23192.5,600
+pooja gupta,23190.0,601
+smt vimla,23175.25,602
+tanuja,23164.5,603
+chanchal @ rubi,23142.5,604
+najma,23131.75,605
+naveeda,23121.5,606
+kumari radha,23106.5,607
+nirmal,23105.25,608
+kishan,23091.0,609
+nena,23044.75,610
+kushum,23044.0,611
+usha devi,23042.75,612
+kriti,23020.75,613
+kumari soniya,23011.5,614
+arun,23006.0,615
+vansu dev,23002.5,616
+ambiya,22999.25,617
+rambha,22999.25,617
+premlata,22982.0,619
+vinod kumar,22981.0,620
+gita,22957.25,621
+savitri devi,22939.25,622
+smt maya devi,22937.0,623
+himansi,22916.5,624
+parvesh,22913.75,625
+smt.ganga devi,22903.75,626
+smt sangeeta,22894.0,627
+tulsha,22882.75,628
+smt seema,22859.5,629
+farhana,22852.25,630
+mamata,22832.25,631
+gaytri bai,22826.0,632
+seetal,22821.25,633
+gurpreet kaur,22819.75,634
+arshi bisht,22787.5,635
+sudama,22778.25,636
+mariyam sarjo,22776.0,637
+mamta bai,22758.0,638
+krishana,22747.5,639
+mangi bai,22743.75,640
+varsa,22743.25,641
+ramvilash,22728.5,642
+gori,22718.75,643
+versa,22718.5,644
+kumari jyoti,22706.75,645
+gulfsa,22685.75,646
+mazida,22656.75,647
+shaifali,22634.0,648
+vijay kumar,22628.75,649
+dhapu bai,22626.25,650
+smt. geeta,22606.5,651
+pankaj,22595.0,652
+nargish,22591.75,653
+fatma,22569.5,654
+rakesh,22553.0,655
+deepa singh,22525.25,656
+sufia,22504.0,657
+kumari sunita,22477.0,658
+bhudevi,22475.0,659
+kashish,22474.25,660
+radha bai,22454.5,661
+khushnuma,22437.0,662
+rajiya,22432.5,663
+pooja taneja,22422.5,664
+aruna,22421.0,665
+sahil,22400.75,666
+pooja kanwar,22380.0,667
+sapana,22370.75,668
+rajeshwari,22339.75,669
+bharti devi,22327.0,670
+sandeep kumar,22302.5,671
+sajida,22301.0,672
+smt. pushpa,22278.0,673
+harneet kaur,22258.25,674
+montu,22257.5,675
+seeta bai,22248.25,676
+maya bai,22235.0,677
+virender,22224.75,678
+komal bharti,22216.25,679
+imrana,22203.75,680
+sanju devi,22199.5,681
+sweety,22167.5,682
+deepa chauhan,22152.0,683
+shiwani siyal,22147.75,684
+mukesh,22141.0,685
+aafrin,22136.75,686
+sahana,22135.25,687
+hari ram,22131.5,688
+pryanka,22125.75,689
+mallika jayaswal,22120.0,690
+lilabai,22098.75,691
+aashma,22078.75,692
+yashika,22074.25,693
+prema devi,22063.25,694
+rashmi @ ishika,22056.0,695
+neha gupta,22038.25,696
+komal sharma,22036.5,697
+tara singh rawat,22008.0,698
+rupa devi,22000.75,699
+mamta kumari,21976.25,700
+smt. murti devi,21975.75,701
+sangeeta devi,21955.25,702
+sushila devi,21954.0,703
+"meenu s/o shiv kumar r/o c-78, shivaji park, punja",21927.25,704
+bharti singh @ sona,21926.25,705
+shenaz,21925.0,706
+mariyam,21916.25,707
+simran kaur,21908.0,708
+mamuni,21907.0,709
+puspa,21889.25,710
+anil kumar,21880.0,711
+champa devi,21878.0,712
+nagina,21859.5,713
+smt neelam,21853.5,714
+gyatri devi,21824.25,715
+ramesh,21819.5,716
+rinky,21812.25,717
+ranjna,21796.0,718
+pratibha,21776.25,719
+ravita,21775.75,720
+vikas kumar,21755.75,721
+nosi,21739.75,722
+rekha bai,21736.5,723
+kanika sharma,21709.5,724
+pramila,21701.25,725
+kumari manisha,21694.0,726
+vikshi,21666.25,727
+aaliya,21663.25,728
+preeti kumari,21652.0,729
+sunita bai,21643.25,730
+supriya,21618.0,731
+smt meena,21597.0,732
+swati singh,21542.5,733
+beauty dass,21502.75,734
+suman devi,21477.75,735
+smt babita,21455.25,736
+naseema,21429.75,737
+sangeeta kumari,21419.5,738
+neelam devi,21418.25,739
+japneet kaur,21400.25,740
+sima,21324.0,741
+vishal,21304.5,742
+raju,21296.25,743
+anju jain,21292.25,744
+unknown,21278.75,745
+kaushal,21247.0,746
+jinat,21206.75,747
+lalita devi,21167.75,748
+uzma,21156.0,749
+????,21142.5,750
+vimala,21141.75,751
+harpreet kaur,21119.75,752
+amandeep kaur,21108.5,753
+sunder munni kumari,21105.0,754
+leena,21102.0,755
+tamanna,21087.75,756
+?????,21085.5,757
+sabiya,21084.25,758
+divya sharma,21080.0,759
+kanchan kumari,21078.25,760
+sunil,21069.25,761
+premwati,21031.5,762
+akash,20988.5,763
+bimlesh,20984.75,764
+samaprveen,20977.25,765
+piroj,20965.5,766
+sugna,20961.75,767
+riya kashyap,20825.25,768
+rama,20822.75,769
+poonam kumar,20807.25,770
+jyotsana @ jyoti,20798.0,771
+shivani bhatnagar,20771.75,772
+kamni,20747.0,773
+irfan,20736.0,774
+pooja sharma,20718.25,775
+sulekha,20698.0,776
+gulnaj,20692.5,777
+-,20643.5,778
+aasma,20632.5,779
+dharmender,20574.0,780
+rashi,20532.25,781
+mohan,20512.5,782
+amarjeet,20505.25,783
+chanda devi,20495.0,784
+koshal,20448.0,785
+nidhi kumari,20410.0,786
+harsha,20380.75,787
+guddi bai,20373.5,788
+parmeshwari,20350.0,789
+chandra kala,20311.0,790
+parsann  bai,20265.5,791
+meena devi,20237.0,792
+priynka,20235.25,793
+hasina,20230.25,794
+akash gupta,20230.25,794
+prem devi,20182.75,796
+dayawati,20179.5,797
+himani,20166.5,798
+rimpy,20156.0,799
+raveena,20150.75,800
+shanti bai,20131.75,801
+namita,20065.25,802
+arati,20058.0,803
+sanna,20046.0,804
+vikash,20018.0,805
+gulista,20016.5,806
+kiran yadav,19997.75,807
+sony,19969.75,808
+rina @ moti,19957.5,809
+noor bano,19912.5,810
+karuna,19721.0,811
+manisha kumari,19571.25,812
+bhavna,19563.0,813
+km puja,19453.25,814
+sayja,19417.5,815
+sumit,19374.0,816
+renuka,19358.25,817
+lokesh,19281.5,818
+dimpal,19254.25,819
+gulab bano,18959.5,820
+priyanka @ khushboo,18701.25,821
+farida,18309.75,822
+ratmo devi,17104.5,823
+harpreet kaur @ geetanjli,16288.75,824
+minkashi,16154.5,825
+smt. shakuntla devi,15922.0,826
+chanab,15862.0,827
+tayab,15838.0,828
+sarita sharma,15594.25,829
+killo kumari,15593.75,830
+sheela kumar,15565.5,831
+azhar  ali,15449.25,832
+nimmy,15442.25,833
+smt uganti devi,15436.0,834
+shanty devi,15404.25,835
+sadhana @ jyoti,15336.0,836
+priya  chturvedi,15215.25,837
+minakshi sainai,15212.25,838
+krishna with two child,15203.0,839
+lal babu prasad,15162.0,840
+sabnam khatun,15153.75,841
+savita devi w/o sandeep patel,15131.5,842
+nandita,15116.0,843
+ku- shashi pal,15057.0,844
+kajal choudhary,15038.0,845
+sahiba @ ruby,15030.0,846
+kiran vharma w/o vimal vharma,15005.5,847
+satyapal,14989.25,848
+nigar khan,14966.25,849
+kalpna,14962.0,850
+minaksi,14938.75,851
+nikhat,14872.5,852
+reshma ahari,14856.25,853
+mohd. mukhtaar,14848.25,854
+smt laxmi devi,14819.75,855
+smt. preeti,14691.0,856
+amreen,14627.25,857
+rashmi rator,14620.25,858
+ajmeri jaysmin,14599.5,859
+tumpa mundal,14591.0,860
+tanuja devi,14587.75,861
+soam chokeyiyakra,14584.75,862
+"smt. bhanwari ,nahar singh",14583.5,863
+sony @ madhubala,14582.0,864
+arti kumari d/o sunil sadu,14581.75,865
+kanchan balai,14551.25,866
+mukiman nazir,14550.5,867
+arti arora,14520.25,868
+bhawana @ shannu,14496.75,869
+swaranjeet kaur,14494.75,870
+paramjit kaur,14493.0,871
+veero @ veerwati,14481.75,872
+usha mathews,14476.75,873
+rehana begam,14465.25,874
+bahalen angriya,14463.5,875
+fakiha,14436.0,876
+chandani urf chanda tara,14428.5,877
+chandni ( with two child vikash 3 yrs & sweta 8 yr,14426.75,878
+takshila arora,14424.75,879
+seema @ devki,14424.5,880
+naryani devi,14424.25,881
+khokan sarkar,14423.5,882
+apsana,14421.75,883
+sandna & khusi,14414.0,884
+pooja chawriya,14399.75,885
+smt rekha,14394.75,886
+ruzina khatun,14394.5,887
+mangla urf mangi bai,14385.75,888
+karunakar dehra,14383.5,889
+ramesh yadav,14374.0,890
+sanju kumari,14364.75,891
+md noori,14338.0,892
+nasim hathun,14330.25,893
+ms leela bai nayak,14323.75,894
+nazmin,14319.75,895
+harshita poswal,14319.5,896
+munbura bibi,14300.25,897
+priya sexena,14295.75,898
+rupender kaur,14294.25,899
+nasreema khatoon,14279.75,900
+aradhana @ radha,14278.25,901
+sobha devi,14278.25,901
+preeti chaudhary,14277.75,903
+amarin,14262.0,904
+milka,14260.25,905
+rohan,14260.0,906
+smt ranjna verma,14251.75,907
+neemi,14244.75,908
+shaloo @ chinto,14237.75,909
+khshbu,14230.75,910
+renu @ pali,14226.75,911
+smt vinod devi,14225.5,912
+hina @huma,14221.75,913
+ramaiya,14211.0,914
+ruka mani devi,14209.75,915
+mohini singh,14209.5,916
+neelam mehta,14195.75,917
+kamlesh with her two child lucky & vanshika,14194.0,918
+rajeev jha,14186.25,919
+smt shasi,14181.75,920
+udita,14163.5,921
+lata kumari,14152.25,922
+munna lal,14139.25,923
+kumari sonam,14138.0,924
+pawan kumar,14135.5,925
+sobit saini,14130.25,926
+kushmita,14123.0,927
+rafat yashmeen,14119.25,928
+smt renu sharma,14113.75,929
+jasleen kaur,14111.75,930
+sarsawati devi,14104.75,931
+jitendra kumar,14092.5,932
+naveen,14090.25,933
+pragti,14088.75,934
+gyarsi,14085.75,935
+siza,14083.0,936
+neeli nirmala,14079.75,937
+rachna sharma,14078.0,938
+veena ben damor,14077.0,939
+km0 shilpa,14065.25,940
+mariya,14064.0,941
+mandvi sharma @ shiva,14058.75,942
+dilawar,14049.5,943
+razia,14046.25,944
+surekha,14046.0,945
+valentina anglika,14044.25,946
+mala dev i,14044.25,946
+pushpa kumari,14044.0,948
+lakhi,14044.0,948
+sadab urf golu,14043.75,950
+radhadalal,14036.75,951
+richa tyagi,14022.75,952
+kali charan,14018.75,953
+mohd. amir,14012.25,954
+manju nayak,14008.0,955
+ku. monu,14002.25,956
+leela with a child,13998.75,957
+bhawna sejwani,13995.75,958
+uma verma,13993.75,959
+hamim,13988.5,960
+ankush,13973.75,961
+sonam kawar,13972.5,962
+swati yadav,13972.25,963
+deepa @ gudiya,13971.5,964
+suda sharma,13964.75,965
+abbas,13951.5,966
+rama sharma,13950.5,967
+panchu,13947.75,968
+komal berwal,13947.5,969
+parveena,13947.5,969
+kirti ahuja,13939.0,971
+kamni devi,13935.75,972
+pooja gurjar,13931.25,973
+barakha,13930.25,974
+nazeem,13929.25,975
+smt. pinki bai,13929.25,975
+kumari varsha,13927.75,977
+ismaliye @ khusbu,13927.0,978
+tuba fatima,13924.75,979
+lali nisha,13905.75,980
+smt jaimala,13905.75,980
+sudama with 2 children,13901.75,982
+vude bhadur,13892.0,983
+kumari tena pawar,13892.0,983
+chanderwati,13891.25,985
+ku. rajni,13891.0,986
+madhuni haldar,13889.25,987
+rajan,13880.0,988
+nency,13874.25,989
+tulsi sharma,13868.75,990
+seema das,13867.0,991
+soniya pandit,13861.5,992
+kajal kanwar,13861.0,993
+momin,13861.0,993
+mamtha,13859.0,995
+phool watiya devi,13855.75,996
+ranita,13848.75,997
+jamuna,13846.5,998
+lahida,13837.0,999
+kajal @ shagun,13836.25,1000
+rishu,13833.25,1001
+kumari khana gulsan,13825.0,1002
+gulsana,13818.75,1003
+bima,13813.75,1004
+premawati,13806.25,1005
+bindiya,13803.0,1006
+km sarika  kothari,13800.75,1007
+rustam shah,13799.5,1008
+koyali,13793.75,1009
+janki @ soni,13790.5,1010
+pinky kawar,13789.25,1011
+smt manju devi,13786.5,1012
+manjula kumari,13785.75,1013
+mega kumari,13785.0,1014
+shivani@prachi,13785.0,1014
+smt lakshmi devi  w/o manoj singh  rawat age 27 ye,13781.0,1016
+vashudev,13774.5,1017
+ranbir,13772.75,1018
+rekha  devi,13769.25,1019
+dharma devi,13768.5,1020
+simabharti,13761.5,1021
+kaushar,13754.5,1022
+parminder,13754.25,1023
+shishram,13753.75,1024
+utpana davi,13750.25,1025
+soniya @ chanchal,13742.0,1026
+kalavati,13741.5,1027
+krishna@manisha,13739.25,1028
+kali urf rakha,13732.0,1029
+bharti jain with her two son palak jain age 11 yrs,13731.5,1030
+gulsan khatoon,13730.0,1031
+chuni devi,13726.5,1032
+vironika,13722.0,1033
+aashu,13718.5,1034
+sosri bai,13701.5,1035
+sanjna,13699.25,1036
+smt dhapoo devi,13698.0,1037
+pooja kashyap,13696.75,1038
+anju bala @ sunaina,13696.0,1039
+megha das,13694.5,1040
+smt salina @ shasina,13692.25,1041
+raghubir singh,13688.0,1042
+kumari rohini,13688.0,1042
+komal tiwari,13687.0,1044
+tarannum @ arshi,13682.25,1045
+amit kumar shukla,13678.75,1046
+kelashi,13678.5,1047
+mona @ amrin fatma,13676.5,1048
+prachi,13674.0,1049
+yasoda,13672.25,1050
+smt. neelam,13669.25,1051
+aruna with children,13666.75,1052
+aarti bunkar,13661.75,1053
+mani,13655.5,1054
+goldan kumari,13650.5,1055
+sapna gurjar,13648.25,1056
+sita kumari,13643.75,1057
+maina devi,13636.5,1058
+pooja @ nishal,13635.0,1059
+raju garg,13633.5,1060
+grace p.a.,13627.5,1061
+diti sharma,13625.75,1062
+reena gupta,13619.0,1063
+neha dhiman,13615.5,1064
+nandu bai,13610.5,1065
+kamal,13609.75,1066
+sukhbir kaur,13606.5,1067
+pooja shrama,13602.0,1068
+renu devi,13600.25,1069
+sumita devi,13597.75,1070
+hema khatun,13590.0,1071
+rashimi dayal,13589.0,1072
+sonali pandey,13588.0,1073
+sehjal,13584.75,1074
+phool kumari,13583.25,1075
+shadab,13569.25,1076
+kasim,13566.75,1077
+sajan,13564.0,1078
+anita gupta,13563.25,1079
+vishakha anand,13556.0,1080
+nesha,13554.25,1081
+safali das,13553.75,1082
+abha kumari,13553.25,1083
+arjun,13550.0,1084
+shrabani saha,13545.0,1085
+jainab fatima,13542.25,1086
+diksha rani,13541.25,1087
+rishi,13539.5,1088
+smt niru,13530.25,1089
+smt surbhi,13528.75,1090
+anjana mahajan,13528.5,1091
+vishakha,13528.25,1092
+nancy saxena,13523.25,1093
+taniya saini,13514.25,1094
+mariam  mumtaz,13512.5,1095
+razida khatoon,13511.75,1096
+mukesh kumar yogi,13511.25,1097
+rimjhim,13508.25,1098
+sayada,13501.5,1099
+sabina @ faiziya,13500.5,1100
+rashmi @ kajal,13485.0,1101
+samiksha  rathor,13484.5,1102
+geetanjali,13483.75,1103
+baban @ suresh,13480.75,1104
+mariyam @ sonam,13479.0,1105
+sahina,13478.75,1106
+ratani,13468.25,1107
+mahjabi,13467.25,1108
+sanavvar,13466.0,1109
+bilke khatoon,13460.75,1110
+minu,13460.25,1111
+manish garg,13457.5,1112
+gagan @ mamta,13455.25,1113
+shifali roshan,13448.0,1114
+simran @ashita,13445.0,1115
+karamjeet kour @ sagandeep kour,13441.75,1116
+anaro devi,13439.75,1117
+sangeeta meena,13433.5,1118
+rashika,13431.5,1119
+pushpa bhil,13424.25,1120
+ramjanki bai,13424.25,1120
+ranju kumari,13422.5,1122
+devender kaur,13407.5,1123
+deepika tomar,13406.75,1124
+piryanka,13404.75,1125
+lajjavati,13402.0,1126
+tahseen ssifi,13396.0,1127
+shardanand,13395.0,1128
+lali davi,13393.25,1129
+sona bai,13390.5,1130
+lakhsmi @ rekha,13386.0,1131
+yoshoda@ pinki,13385.75,1132
+smt. nena devi,13379.0,1133
+kumari sabnam @ monu,13377.5,1134
+sulochna devi,13377.0,1135
+roshni kumari,13375.75,1136
+lalita luthra,13370.25,1137
+smt laxmi,13367.75,1138
+jyoti fransis,13367.0,1139
+rohini,13366.0,1140
+jyoti shahu,13363.75,1141
+smt meenakshi,13361.75,1142
+smt. vimla devi,13361.0,1143
+sunita kumawat,13360.5,1144
+birju,13358.75,1145
+jitender kumar,13356.0,1146
+priyanka w/o mahesh purve,13354.75,1147
+farjana bano,13354.0,1148
+mallik  jayswal,13350.5,1149
+iram aara,13349.25,1150
+sahana praveen,13349.0,1151
+rajni w/o harivinder singh,13347.75,1152
+aman jeet,13347.0,1153
+tapas das,13338.0,1154
+smt rajani,13337.5,1155
+bhagwati prasad,13337.0,1156
+smt. aamna devi,13336.5,1157
+nazahat,13335.0,1158
+ranjana devi,13334.5,1159
+"devender singh s/o shrinath r/o kh. no. 72/1, utsa",13334.5,1159
+nazneen bi,13333.5,1161
+sashi kala,13333.25,1162
+kavita talash,13330.5,1163
+deepak rana,13329.75,1164
+arsi praveen,13329.5,1165
+kismat/ sngu,13329.0,1166
+vandita,13322.0,1167
+kirpa,13321.75,1168
+shakeena,13321.25,1169
+gango devi,13316.5,1170
+sanita,13313.5,1171
+imaman khatoon,13307.0,1172
+rakhi devi,13304.0,1173
+pooja gop,13302.5,1174
+"soniya, two daughter  janvi and manvi, ram bhawan",13299.75,1175
+priyanka d/o,13295.5,1176
+dipeeka,13293.25,1177
+shamima,13291.75,1178
+mana sarkar,13285.5,1179
+preeti devi,13285.25,1180
+mubshshira,13282.75,1181
+rajwanti,13280.25,1182
+sitara  khatun,13277.5,1183
+rajmani,13275.75,1184
+laxmi @ gudiya,13274.25,1185
+munna lal jain,13272.5,1186
+jayanti @ pooja,13269.0,1187
+priti tomar,13268.0,1188
+fauina,13267.0,1189
+kiran kanwar,13266.75,1190
+priya urf laxmi devi with her son,13264.25,1191
+smt renu,13263.5,1192
+kanchan @ chotu,13263.0,1193
+priya kumar,13260.25,1194
+kumari ranjita,13259.75,1195
+vipiv malkania,13251.25,1196
+trannum,13250.75,1197
+pramila urf pinki,13250.25,1198
+raja babu,13248.75,1199
+isha devi,13248.25,1200
+meena  pawar,13247.0,1201
+narayan gadri,13246.5,1202
+seeba,13243.0,1203
+silpi kumari,13238.75,1204
+km0 priyanka,13236.75,1205
+gulafsa khatun,13236.5,1206
+astha,13235.5,1207
+rubi with a child,13231.75,1208
+ramdulari @ gulabu,13230.75,1209
+mobin,13230.25,1210
+shabana @ gudiya,13229.75,1211
+anandi,13223.5,1212
+kiran thapa,13221.25,1213
+diksha vashist,13220.5,1214
+alka sharma,13213.0,1215
+pooja bairwa,13212.25,1216
+ram pyari,13211.0,1217
+munna kawar,13205.0,1218
+smt. pinki@malti devi,13204.25,1219
+divya rani,13202.75,1220
+seekha,13196.5,1221
+nimla sharama,13196.0,1222
+smt sapana,13191.0,1223
+sanju singh,13189.5,1224
+santi devi,13187.5,1225
+yogita tiwari,13186.5,1226
+mangubai,13183.5,1227
+manisha chowhan,13183.5,1227
+rubo kumari,13183.25,1229
+pariksha,13178.5,1230
+gulafshan,13178.0,1231
+smt rukshana,13173.5,1232
+vivek auhari,13172.5,1233
+"savita, sagar, panap",13169.75,1234
+jasina khatun,13169.0,1235
+km. alka,13167.75,1236
+premature devi @ neetu,13166.5,1237
+hema sharama,13165.0,1238
+chand tara,13161.75,1239
+juli devi,13161.25,1240
+shakuntala sharma,13159.25,1241
+nilam bhoi,13158.5,1242
+lalita choudhry,13157.0,1243
+gori nandy,13155.25,1244
+nagia,13152.25,1245
+roji khatoon,13149.5,1246
+mosam kumari,13149.25,1247
+varsha garg @ hunny m.no.-8901040854,13149.25,1247
+santosh singal,13146.5,1249
+smt rubina,13144.25,1250
+kumari shivani,13143.75,1251
+ajju @ rubi,13142.0,1252
+santi bai,13140.5,1253
+chango uraon,13139.75,1254
+aarifun bivi,13139.25,1255
+sushma kapoor,13138.5,1256
+shukla vishwas,13137.75,1257
+radheyshyam saini,13132.75,1258
+km. guddi,13132.5,1259
+prem singh bidla,13132.0,1260
+shaid,13127.5,1261
+afshana,13123.5,1262
+hansa dave,13122.5,1263
+inderjeet kaur,13116.75,1264
+manjula @ riya,13115.25,1265
+vijay laxmi,13112.0,1266
+arti kumari sahu,13110.75,1267
+raman @ rancho,13108.5,1268
+nancy,13108.25,1269
+geeta kumari,13106.0,1270
+akhtari @ muskan,13105.0,1271
+gopi,13104.5,1272
+smt sita devi,13102.25,1273
+pooja gujar,13102.25,1273
+bhanwar singh,13093.75,1275
+dhana devi,13092.0,1276
+anno@ mahrun,13091.5,1277
+pryanika,13087.25,1278
+ku. rekha,13086.5,1279
+dhaneswar dass,13084.5,1280
+samiron,13084.25,1281
+sajni,13081.75,1282
+nikki kumari,13078.25,1283
+nano sabroon khan,13077.75,1284
+shahnaj,13073.75,1285
+kumari monika mahavar,13070.5,1286
+simran dhawan,13068.75,1287
+andhav,13066.75,1288
+renuka parmar,13064.25,1289
+rukiya bano,13058.5,1290
+sunarki devi,13055.5,1291
+yasmeen@lali,13055.5,1291
+diya sharma,13052.0,1293
+varsha bagalia,13051.0,1294
+shalini @ shallu,13048.75,1295
+ku. reetu,13047.75,1296
+durgesh suman,13047.5,1297
+bharkah,13043.75,1298
+nehal,13042.5,1299
+sugna meena,13038.75,1300
+kumari manjeet,13038.0,1301
+susma,13036.0,1302
+tara munda,13034.5,1303
+seeta devi,13030.0,1304
+bsram devi,13029.5,1305
+jafrin,13029.25,1306
+shima,13028.0,1307
+kamal jit singh,13025.25,1308
+smt. kanchan devi,13023.5,1309
+bimla devi,13009.0,1310
+sunita @ pooja,13005.75,1311
+manisha rani,12999.25,1312
+neha siddiki,12988.75,1313
+shikha singh,12987.75,1314
+mahi,12987.5,1315
+priya kaur,12984.0,1316
+abhimanyu,12979.5,1317
+radha devi,12978.25,1318
+laltia dass,12977.75,1319
+asha naidu,12977.5,1320
+kalpeshwari devi,12977.0,1321
+naval kishore,12975.5,1322
+twinkal,12974.25,1323
+anita kerketa,12967.75,1324
+harprasad sahu,12964.0,1325
+smt. jayoti  rawat,12962.75,1326
+sweeti,12961.25,1327
+smt. durga devi,12959.5,1328
+pratima pandey,12954.0,1329
+sakuntla,12950.5,1330
+krishna kumari,12947.0,1331
+rakhi @payal,12946.75,1332
+javuneesha,12945.5,1333
+sagira begam,12943.75,1334
+chnda mali,12940.25,1335
+komal yadav,12938.0,1336
+silender,12937.75,1337
+smt parwati devi,12937.0,1338
+shiv prasad singh,12936.5,1339
+smt. rita dewan,12936.25,1340
+km0 imrana,12933.75,1341
+tashkkur sultana,12932.25,1342
+bhumika chettri,12929.25,1343
+kulli devi,12927.25,1344
+chandrawati @ geeta,12926.75,1345
+sudesh devi,12926.25,1346
+bandani,12923.25,1347
+avdhesh,12922.25,1348
+kirshna,12921.75,1349
+gangajali devi,12920.25,1350
+jomiya,12918.5,1351
+sapna porwal,12916.75,1352
+kamlesh @ gordi,12913.25,1353
+nahid fatima,12913.0,1354
+soma,12912.5,1355
+aesha,12907.5,1356
+dholi devi,12906.25,1357
+sangeta,12904.0,1358
+smt. bhgavti devi,12902.25,1359
+jyoti meghwal,12898.5,1360
+urmila with child,12894.5,1361
+kiran @ vina,12893.5,1362
+shanichari,12890.25,1363
+muskaan,12890.25,1363
+ms. deepa,12889.5,1365
+kafia,12889.25,1366
+neesa,12887.5,1367
+kehkasha,12886.75,1368
+menu kashyap,12886.75,1368
+km anamkhan,12886.75,1368
+jannat,12886.0,1371
+chando,12885.5,1372
+smt. pinki,12882.0,1373
+chandni @ shabnam,12880.75,1374
+preeti wadhva,12876.0,1375
+radheshyam sen,12875.5,1376
+husnara,12874.25,1377
+prem bai,12873.75,1378
+shanta,12871.5,1379
+sanju sharma,12871.0,1380
+smt. mema devi,12869.75,1381
+mamuni das,12869.0,1382
+sakshi sharma,12868.0,1383
+teena @ sobha,12867.5,1384
+taramati,12866.75,1385
+santosh kaur,12866.0,1386
+rahil perveen,12864.25,1387
+sachi,12863.5,1388
+manwi,12862.25,1389
+paramjeet kaur @ aasha,12861.25,1390
+vinod gupta,12861.0,1391
+nini,12859.75,1392
+roopam,12859.5,1393
+anoura khatun,12858.25,1394
+smt. kanchan,12857.75,1395
+guni divy,12856.75,1396
+amrik kaur,12856.5,1397
+varsha kumari,12856.5,1397
+phoolwati @ phoolo devi,12855.5,1399
+vishavkarma devi,12855.25,1400
+payal goyala,12854.5,1401
+tripti,12854.0,1402
+kamlesh mehto,12851.25,1403
+smt priya sharma,12848.0,1404
+shabanam,12846.0,1405
+neha singh @ nanu,12846.0,1405
+armita,12846.0,1405
+gurmeet,12843.75,1408
+satpal,12842.25,1409
+sila,12840.75,1410
+deepanshi jain,12840.25,1411
+manfool bai,12838.75,1412
+pooja soren,12836.5,1413
+paryanka,12834.75,1414
+punam shakya,12831.5,1415
+chand mundari@geeta,12830.5,1416
+diksha gupta,12830.25,1417
+sangeeta jan,12830.0,1418
+rajni bala @ manisha,12827.75,1419
+roshani bhatiya,12826.75,1420
+laxmi babu,12823.75,1421
+aasha rani,12823.25,1422
+sapana sharma,12820.5,1423
+"preeti d/o daulat ram r/o a-629, jj colony madipur",12820.25,1424
+puspa mintiz,12818.25,1425
+durga pathik,12817.25,1426
+smt gunjan,12817.0,1427
+shamshina,12816.0,1428
+pinky verma,12815.75,1429
+bhagirathi,12811.25,1430
+hema aikka,12811.0,1431
+priyaka,12809.0,1432
+nagma begam,12808.75,1433
+noor jha,12806.5,1434
+parveen khatun,12805.5,1435
+ravina @ khusbu,12804.5,1436
+kamta,12803.25,1437
+devi kanwar,12801.75,1438
+beeru,12798.5,1439
+bitoo devi,12794.5,1440
+mamta paliwal,12793.75,1441
+sabreen khatun,12793.75,1441
+smt tina,12793.75,1441
+zarina,12793.0,1444
+sony parveen,12793.0,1444
+amba  balai,12788.75,1446
+sakina,12786.75,1447
+usha sharma,12782.5,1448
+raju singh,12781.5,1449
+leena rai,12781.0,1450
+indu devi,12781.0,1450
+rakhi soni,12774.75,1452
+akhil kumar,12772.0,1453
+juna d/o prem bahadur,12771.25,1454
+parveen aggarwal,12771.25,1454
+bhatri,12771.0,1456
+naveena,12770.75,1457
+ratni,12769.5,1458
+bindu devi,12766.5,1459
+amarmula,12764.0,1460
+km0 anjli,12763.75,1461
+sagufta,12749.5,1462
+shika haldhar,12749.0,1463
+jaswinder kaur,12746.75,1464
+vashanavi @ mona,12744.0,1465
+mrs. basanti devi,12742.5,1466
+vandna @ krishma,12742.25,1467
+renu pal,12741.25,1468
+sona devi with a child krishna,12739.75,1469
+rekha saini,12735.75,1470
+vivek chabra,12732.25,1471
+ku. neeru,12726.0,1472
+rajudi doda,12724.5,1473
+gopal sharma,12722.75,1474
+aditya negi,12722.25,1475
+mulina,12721.0,1476
+puja yadav,12719.75,1477
+sarvesh kumar pandey,12718.25,1478
+sobha,12718.25,1478
+kabir,12717.5,1480
+basanti,12710.0,1481
+zeba,12708.5,1482
+kishan rai,12708.5,1482
+aarti sharma,12708.0,1484
+binita,12706.25,1485
+kiran d/o suraj prashad,12706.0,1486
+smt manju,12705.0,1487
+pratibha devi,12703.25,1488
+km vijeta,12703.0,1489
+mahadevi,12702.75,1490
+kalawati,12702.75,1490
+vinita @ pooja,12702.25,1492
+samra,12698.25,1493
+maya dass,12696.25,1494
+smt. patasi devi,12695.75,1495
+rinku devi,12689.25,1496
+nasir ull khatun,12684.25,1497
+smt doli,12682.0,1498
+ruby panwar,12680.0,1499
+fiza parveen,12680.0,1499
+reeta devi,12679.75,1501
+varsh,12679.25,1502
+smt premi devi  &balbant singh&ishwar singh & yuva,12676.75,1503
+babita bajali,12676.25,1504
+nilesh,12675.5,1505
+premi devi,12673.5,1506
+captain,12672.0,1507
+rupanjali patiri,12671.0,1508
+satish kumar,12668.75,1509
+sutiya,12668.75,1509
+smt vinita,12668.5,1511
+manpreet @ simaran,12666.5,1512
+varisha,12664.5,1513
+sanjeev,12663.75,1514
+brij raj,12662.0,1515
+maya kvr,12659.25,1516
+teena,12658.0,1517
+bitto,12655.0,1518
+ku. kamla yadav,12654.5,1519
+nainshi,12654.0,1520
+deepika sharma,12652.5,1521
+ku. neha raj,12652.0,1522
+pushpa sinha,12650.75,1523
+aamina,12649.25,1524
+kavita gochar,12647.5,1525
+sangeeta mishra,12646.5,1526
+dali devi,12644.25,1527
+shiv devi,12643.25,1528
+kumari sangeeta,12642.5,1529
+manorma sharma,12640.25,1530
+lata devi,12636.5,1531
+gulfasha,12635.0,1532
+taran devi,12632.5,1533
+ramli rathore,12630.75,1534
+najrana,12630.5,1535
+manjoo,12629.25,1536
+veer bhan singh,12626.5,1537
+inderjeet mandal,12626.0,1538
+madhwi,12625.5,1539
+amida @ poonam,12623.25,1540
+bhavna oad,12622.75,1541
+ravindra kumar,12622.75,1541
+satnosh,12620.25,1543
+shulekha,12618.25,1544
+ashfaq,12617.75,1545
+seema kunwar,12616.0,1546
+praful naag,12615.25,1547
+shahida,12614.0,1548
+januka,12614.0,1548
+harshita chobe,12613.5,1550
+smt. santosh with her four children,12613.5,1550
+jya @ jayawanti,12610.5,1552
+devika,12610.25,1553
+smt raji devi,12608.75,1554
+pavi,12608.25,1555
+vaishanvi,12605.5,1556
+neni,12604.5,1557
+kum nidhi,12603.5,1558
+asgari bagam,12602.0,1559
+smt ranu,12601.25,1560
+sundri bai,12600.75,1561
+anuj tiwari,12594.0,1562
+rupa kumari,12593.75,1563
+sudesh rani,12593.25,1564
+smt mota,12592.75,1565
+kamar jahan @ banno,12589.0,1566
+gulafsha,12589.0,1566
+hema pandey,12587.0,1568
+sheela bhanat,12586.5,1569
+nazia khan,12585.5,1570
+birmadevi,12583.75,1571
+anushka sharma @ pooja,12582.0,1572
+sazia praveen,12582.0,1572
+devideen,12580.75,1574
+fooljhnah,12580.25,1575
+smt. kavita bai,12580.0,1576
+pankaj chand,12578.5,1577
+hansa,12577.5,1578
+isnesh,12577.0,1579
+raju meena,12574.5,1580
+sabeena,12574.0,1581
+ruksar bano,12573.75,1582
+harbir  singh,12573.0,1583
+sabenoor@tamanna,12569.75,1584
+simran bhishat,12569.5,1585
+nanagram,12568.75,1586
+robi,12567.0,1587
+bhumika,12566.75,1588
+guddu rai,12566.25,1589
+radikha,12565.5,1590
+alseepa,12565.0,1591
+nanak chand,12563.0,1592
+mrs nanki,12562.25,1593
+deepali singh,12561.75,1594
+rabin,12561.25,1595
+gaurav kumar,12561.0,1596
+munni khatun,12560.0,1597
+nida,12559.25,1598
+oma,12556.25,1599
+neha verma @ deepa,12551.0,1600
+smt. paramjeet,12550.0,1601
+priyanka sagar,12548.75,1602
+tapsam,12545.25,1603
+kamini,12544.75,1604
+rubbi,12543.5,1605
+santosh ( with two child vishal & rakhi ).,12543.25,1606
+priti yadav,12543.0,1607
+sandeep kaur,12542.0,1608
+mili,12542.0,1608
+jyotsana mohti,12537.5,1610
+foranta,12537.0,1611
+priya @ nandani,12536.75,1612
+bhagwati @bhoti,12536.75,1612
+kumari praya,12535.5,1614
+anusoya,12535.25,1615
+rajl /raju,12535.0,1616
+naushi,12535.0,1616
+parkash kaur,12533.5,1618
+phoolwati,12533.5,1618
+mahender kumar,12531.25,1620
+jasvinder kaur @ gogi,12530.5,1621
+batloon w/o garib ulla,12530.25,1622
+kumari priyanka,12529.5,1623
+gali no 5/4 samta vihar m. pur part ii delhi,12527.75,1624
+amarjit kaur with a child keshav,12527.25,1625
+rajesh agarwal,12527.25,1625
+ram jatan,12527.0,1627
+hema devi with with his daughter nalini age 4yrs,12525.25,1628
+mohd shahid,12524.0,1629
+sashi pal,12523.75,1630
+bhushan sahay,12523.5,1631
+raja ram,12521.5,1632
+naraini devi,12521.0,1633
+ajnoor baby,12521.0,1633
+munnadevi,12520.75,1635
+kangana,12520.75,1635
+tahira,12516.5,1637
+nanhu khan,12515.25,1638
+kavita bai,12513.0,1639
+santo @ neelam,12512.5,1640
+jang bahadur,12512.5,1640
+kiriti,12512.25,1642
+karishma d/o,12511.5,1643
+ramila bai,12511.25,1644
+badru nisha,12509.25,1645
+girja,12508.75,1646
+tanjima,12508.5,1647
+ruchi kashyap,12507.25,1648
+pooja prajapati @ pratibha,12506.25,1649
+moka,12503.25,1650
+minaksi mehra,12502.25,1651
+najiya,12502.0,1652
+manisha @ mansi,12498.75,1653
+diksha soni,12496.5,1654
+mausam,12494.5,1655
+babita pandey,12493.5,1656
+ramkaran verma,12492.0,1657
+pree,12491.0,1658
+sarika panjawani,12486.5,1659
+lakhi devi,12484.5,1660
+b vikjay kumar,12484.0,1661
+deepti bhargav,12483.0,1662
+hoor bano,12480.25,1663
+heena @ huma,12480.0,1664
+kaushaliya,12477.0,1665
+doodhnath pandit,12475.5,1666
+veer,12475.0,1667
+kiran pal,12474.25,1668
+sumitra bai,12472.75,1669
+sadhna @ sabi,12471.0,1670
+saheen,12468.25,1671
+sonu pandy,12467.0,1672
+anjali sangwar,12467.0,1672
+ravi singh,12462.5,1674
+shahnaz khatum,12457.75,1675
+smt. kamala davi,12457.25,1676
+asmit kaur,12454.0,1677
+seeriya bibi,12453.25,1678
+mohd afzal,12452.25,1679
+laxmi  kumari,12451.5,1680
+vimla devi @ rani,12451.25,1681
+meesh khatoon,12447.5,1682
+aastha thakur,12445.25,1683
+naina kaushik,12444.75,1684
+kumari samrin naz @ simran,12444.5,1685
+krishna w/o hiralal,12444.0,1686
+henkhochon haokip,12439.0,1687
+nshima,12438.75,1688
+kumari usha,12437.5,1689
+smt. sobha,12436.5,1690
+reeta @ rachna,12435.5,1691
+samrin,12432.0,1692
+anubhav shrivastab,12431.75,1693
+pramila katara,12431.5,1694
+kirti w/o lalit,12430.75,1695
+aman deep kaur,12430.5,1696
+ronak,12430.25,1697
+premjit kaur,12429.75,1698
+golu,12429.75,1698
+shathi davi,12428.25,1700
+skunatla,12427.0,1701
+jassi,12426.0,1702
+jaya saini,12425.75,1703
+arjun singh,12423.0,1704
+khushi panday,12421.0,1705
+smt mena,12418.25,1706
+kumari rekha natheniyal,12418.0,1707
+ashima khatoon,12416.5,1708
+nargesh,12416.5,1708
+smt. dayavati,12414.5,1710
+kumari jyothi,12411.75,1711
+arzoo,12408.5,1712
+samina,12408.25,1713
+yogeshwari goyait,12408.25,1713
+somdath,12406.25,1715
+sunita haddu,12405.0,1716
+sunita devi with daughter sanghna,12402.75,1717
+sunena,12397.75,1718
+ajay haldar,12397.25,1719
+harprit,12396.0,1720
+shadhana,12396.0,1720
+raj kumar @ raju,12395.75,1722
+sana praveen,12393.0,1723
+aasha devi,12392.5,1724
+surekha bairagi,12392.0,1725
+devendri,12391.75,1726
+tranoom,12391.5,1727
+manno,12386.75,1728
+kamana devi,12386.5,1729
+smt reena,12386.0,1730
+charu,12384.5,1731
+balraj,12382.5,1732
+ansu,12382.25,1733
+kumari  bhabya goyal,12381.25,1734
+girija,12381.25,1734
+smt. keshar devi,12380.5,1736
+kashum,12380.25,1737
+vishal mishra,12376.75,1738
+gyarsi devi,12375.25,1739
+miss kanika,12374.75,1740
+karamjeet,12374.5,1741
+hemlata pathak,12373.25,1742
+mishbha sams @ simran,12372.25,1743
+anupam,12371.75,1744
+mustki begam,12371.0,1745
+ambika gupta,12369.25,1746
+kusuma,12363.25,1747
+sahar bano,12362.25,1748
+ravinder kaur asha,12360.75,1749
+smt nanhi devi,12360.25,1750
+arti soni,12356.75,1751
+pooja rani,12356.75,1751
+archana singh,12356.0,1753
+ritu @ shallu,12354.25,1754
+dinesh kumari,12354.25,1754
+sultana,12354.0,1756
+mamta@lalita,12353.75,1757
+nagma khatun,12353.25,1758
+babli @ ritu,12352.5,1759
+mandeep kour,12352.25,1760
+heena praveen,12351.75,1761
+lata sharma,12350.25,1762
+phulbi,12349.5,1763
+esrail khan,12349.25,1764
+km. ankita,12349.25,1764
+shveta,12349.0,1766
+harmeet kaur,12347.25,1767
+beti bai,12345.5,1768
+huseni bano,12344.25,1769
+shanty mandal,12343.25,1770
+sawana,12342.5,1771
+mustaq,12341.25,1772
+kanchi,12340.0,1773
+rashmi chawla,12339.75,1774
+kamrulnisha,12337.75,1775
+smt hina,12337.5,1776
+jeenat,12337.0,1777
+liladevi,12336.25,1778
+aarti @ noni,12335.5,1779
+tannu saini,12335.0,1780
+rena bai,12333.5,1781
+km0 usha,12332.5,1782
+ankita bagh,12332.25,1783
+chand kunwar,12332.0,1784
+divy puri,12331.75,1785
+shanti gosai,12331.75,1785
+harsh dagar,12331.5,1787
+dwarika gurjar,12331.25,1788
+noorjhan,12330.5,1789
+miss afreen,12330.0,1790
+joyti sharma,12330.0,1790
+smt. kanya devi,12329.75,1792
+santro devi,12323.0,1793
+veer singh,12317.5,1794
+vimla kumari,12317.25,1795
+tara,12317.0,1796
+saurabh s/o,12313.5,1797
+kailash,12313.25,1798
+akkash,12313.0,1799
+nanveet kaur,12312.5,1800
+shikha rai,12310.75,1801
+urvarshi,12309.75,1802
+beeuty kumari,12309.5,1803
+santok luhar,12309.25,1804
+smt sohani devi,12308.5,1805
+muskarn,12308.25,1806
+ruchika,12308.25,1806
+heena d/o zamil akhtar,12306.0,1808
+sundga,12305.25,1809
+sunita verma,12304.75,1810
+harinder kaur,12303.75,1811
+anjum devi,12301.75,1812
+suman @ sabnam,12301.0,1813
+nana,12300.75,1814
+rishi kakdia,12299.5,1815
+ashiya,12299.0,1816
+satwander koor,12298.0,1817
+dharmshila,12297.0,1818
+priya jain,12296.75,1819
+savita sharma,12295.75,1820
+mmta,12292.25,1821
+ekta balai,12292.0,1822
+salman,12291.0,1823
+hemlata @ pooja,12291.0,1823
+amreeta,12290.5,1825
+smt. champa devi,12290.5,1825
+neha bhatia,12289.0,1827
+????? ??,12288.0,1828
+rehmati,12287.0,1829
+chameli,12286.25,1830
+neetu goyal,12284.75,1831
+rubi khatoon,12284.5,1832
+tapsya tyagi,12283.5,1833
+smt.mamta devi,12281.75,1834
+anisha jain,12280.75,1835
+aamod & pramod,12280.25,1836
+pooja & his daughter partigya,12279.25,1837
+kajal@ poonam,12277.75,1838
+saroj pandey,12276.25,1839
+shakti kumari,12276.25,1839
+nisha devi,12273.5,1841
+saroj devi,12271.25,1842
+anjali  @ nisha,12269.0,1843
+merry kerakeha,12266.75,1844
+anu jain,12266.25,1845
+dipika chaturvedi,12265.75,1846
+sudhama,12265.0,1847
+seema saini,12264.5,1848
+durgesh bai,12263.75,1849
+radhika bhatia,12263.75,1849
+lakhya dona sherppa,12260.0,1851
+ram niwas,12258.25,1852
+udham,12257.75,1853
+jiya batra,12257.75,1853
+smt bhagwani devi,12255.0,1855
+smt ramila,12254.75,1856
+faaija,12254.5,1857
+bina,12253.5,1858
+anjna,12250.75,1859
+divya sharma d/o om prakash sharma,12248.25,1860
+dolly khatik,12248.0,1861
+indrvati,12248.0,1861
+smt. indira bai,12245.5,1863
+guddi with her son  anand,12245.5,1863
+sirish,12244.25,1865
+smt. usha jatav,12244.0,1866
+shyama,12243.25,1867
+saksi,12241.0,1868
+jyoti pandey,12240.75,1869
+pooja jayshwal,12238.25,1870
+sufiya,12238.0,1871
+raniya,12234.5,1872
+praveen,12233.5,1873
+shobha bano,12233.0,1874
+bhagya shree,12231.25,1875
+ku. babali,12229.5,1876
+garima  bhardwaj,12226.75,1877
+anayatha naidu,12226.75,1877
+shushree lalu,12226.25,1879
+gungun,12225.75,1880
+farina,12224.25,1881
+sushma rana,12221.75,1882
+ku. seema,12221.5,1883
+"rekha with two doughters pooja, lakhsmi",12221.25,1884
+imamudeen,12216.75,1885
+suhani & her son sandeep,12212.25,1886
+salama,12211.25,1887
+aman kumar,12210.5,1888
+kirti sonkar,12210.25,1889
+harbai,12208.25,1890
+hemraj,12207.0,1891
+sonia tiwari,12206.75,1892
+rakesh sarkar,12206.0,1893
+vijay singh,12204.0,1894
+pooja w/o dharambir,12203.75,1895
+nicharon mosami,12203.5,1896
+aman dahiya,12202.25,1897
+kamli,12202.0,1898
+kajal@sundri,12202.0,1898
+sandhya pranak,12201.0,1900
+rajkumari  yadav,12200.75,1901
+jenab,12200.75,1901
+sartaj,12199.25,1903
+rizwana khatun,12199.25,1903
+nikita pahlwani,12199.0,1905
+deep,12199.0,1905
+deeksha,12198.75,1907
+dhamini,12196.75,1908
+tejender kaur,12196.5,1909
+krishma tomar,12196.5,1909
+mousam,12196.0,1911
+kimmi@neelam,12195.25,1912
+pooja bhandari,12194.75,1913
+babby,12193.0,1914
+ujama parveen,12191.0,1915
+anshu gupta,12187.25,1916
+dilkhush,12187.25,1916
+ajay narayan,12187.0,1918
+manda bai,12186.75,1919
+"sangita devi with daughter sonia 3yrs 6month, and",12185.25,1920
+dholi bai,12184.0,1921
+ranju sharma,12183.5,1922
+hema sharma,12183.25,1923
+veena w/o sanjay,12182.75,1924
+sonali urf juhi,12182.25,1925
+afarin,12181.75,1926
+razni,12181.25,1927
+asana,12178.75,1928
+sushree veena,12177.25,1929
+musrat,12177.0,1930
+kumarage dona dhanasiri chandra latha,12175.0,1931
+divya mishra,12174.0,1932
+megha arya,12171.75,1933
+smt. sangeeta  urf sonu,12171.25,1934
+rini,12171.0,1935
+joyaa,12170.75,1936
+deepika jain,12170.25,1937
+kanchan bai,12169.5,1938
+parmeswari,12164.5,1939
+alisha @ annu,12164.5,1939
+rashi bansal,12162.5,1941
+babli kumari,12161.0,1942
+laltes,12160.0,1943
+kavita @ babita,12160.0,1943
+beauty khatoon,12159.25,1945
+suhana baano,12157.5,1946
+roshini praveen,12155.0,1947
+madhuri sharma,12154.5,1948
+milan,12154.0,1949
+urmila bai,12153.75,1950
+shobina,12151.0,1951
+aasa devi,12150.75,1952
+inder dutt,12150.0,1953
+hamida khatun,12149.25,1954
+bharkha,12147.75,1955
+dolley,12147.25,1956
+dipa bai,12146.75,1957
+ku. shivani,12146.5,1958
+moral bai,12144.75,1959
+kumari suman,12144.5,1960
+manpritkour,12143.75,1961
+om prakash,12143.75,1961
+asmita,12143.0,1963
+silpi,12142.75,1964
+madhu kumari,12141.75,1965
+ishawar singh,12141.75,1965
+rupen gore,12140.25,1967
+priti kaur,12140.0,1968
+gona bai,12139.25,1969
+priti rawat,12138.5,1970
+anuu,12138.0,1971
+rajshree,12136.75,1972
+matul  devi,12134.75,1973
+daulat banno,12134.5,1974
+priti sagar,12132.0,1975
+mala devi @ nisha,12132.0,1975
+smt. gattu devi,12126.75,1977
+priyanka  kumari,12126.25,1978
+vidhi,12124.5,1979
+kanchan @ rekha,12124.25,1980
+manka,12123.25,1981
+sabhana,12123.0,1982
+ekamjeet,12122.75,1983
+mohd kausar,12121.25,1984
+kailash kumar,12120.25,1985
+manisha khandelwal,12119.0,1986
+jayda khatoon,12117.75,1987
+suman chobe,12116.0,1988
+mehraj,12116.0,1988
+rajveer,12116.0,1988
+najmin,12114.0,1991
+lad bai,12114.0,1991
+meena @ beena,12114.0,1991
+shabnur,12112.75,1994
+kumari pinky,12112.0,1995
+rekha @ boby,12110.75,1996
+irfa,12110.25,1997
+tabassum urf mona,12109.5,1998
+keshanti,12109.5,1998
+aarti @ kajal,12108.5,2000
+najni,12108.0,2001
+jharna dass,12107.5,2002
+ankita negi,12105.75,2003
+anjila,12102.25,2004
+harmit kor,12101.5,2005
+susri madhuri d/o jagdishchandra bhat r/o34 b panc,12101.5,2005
+mira,12100.25,2007
+usha damor,12099.25,2008
+deepika burt,12099.25,2008
+ishtkar,12098.0,2010
+smt. reena devi,12096.25,2011
+disha parmar,12096.0,2012
+kumari shima devi,12094.25,2013
+smt aruna ekka,12092.25,2014
+saral,12090.5,2015
+navneet kaur,12089.25,2016
+zareena,12088.5,2017
+smt phoola devi,12088.5,2017
+virjiniya,12087.75,2019
+mammta,12087.75,2019
+diksha or beby,12087.5,2021
+pinky meena,12087.5,2021
+laxmi @ lalita,12087.0,2023
+ritika,12086.5,2024
+kinya devi @ pinu,12083.75,2025
+versha chandera,12083.75,2025
+sakshi vaid,12083.5,2027
+sadhana,12080.25,2028
+nisha pradhan,12079.25,2029
+raju devi,12077.25,2030
+sumentra,12076.25,2031
+shakir,12076.0,2032
+rubi devi,12074.75,2033
+minaxi chakma,12074.25,2034
+aarti rajpoot,12073.0,2035
+chottu shah,12068.5,2036
+suhani devi,12068.5,2036
+sushhmita dass and his son ayush dass,12067.75,2038
+ku.  kamini,12067.25,2039
+rajbir ahlawat,12066.75,2040
+parem devi urf gothi,12065.75,2041
+mohd. jafruddin,12065.0,2042
+sarwitavm,12064.0,2043
+namita or nimmi,12061.75,2044
+amardeep,12060.75,2045
+gunjan @ guddu,12058.25,2046
+parbhat,12058.0,2047
+karina @ kavita,12054.75,2048
+ashok sharma,12054.5,2049
+sunarkali,12054.25,2050
+chandkor,12051.75,2051
+axat,12049.75,2052
+riju devi,12049.0,2053
+anshika kumari,12048.0,2054
+ruchi devi,12047.0,2055
+chetan,12047.0,2055
+"ranjita devi and his son priyanshu age 2,1/2 yrs",12047.0,2055
+smt. babita,12046.25,2058
+gappu,12042.25,2059
+dibya prakash gupta,12042.25,2059
+kawita,12040.75,2061
+bhrat narayn,12040.0,2062
+gulran,12038.25,2063
+guman singh basyal,12038.0,2064
+subhagya,12035.75,2065
+kumari shri devi,12035.5,2066
+jaivanti,12034.25,2067
+shiva bai,12033.25,2068
+shila devi,12033.0,2069
+kokila,12032.0,2070
+jainab,12031.5,2071
+surender sain,12031.5,2071
+usha parmanand,12029.5,2073
+pinku devi with daughter mansi kumari,12029.0,2074
+smt shiya,12024.75,2075
+vimlesh gujar,12023.5,2076
+roshan aara begam,12022.25,2077
+rita jain,12019.5,2078
+shakshi sagar,12017.5,2079
+kela kanwar,12017.25,2080
+anita garg,12016.25,2081
+sangeeta @  pooja,12016.25,2081
+sanju shekhawat,12015.0,2083
+sangeeta shah,12010.25,2084
+tarjan,12009.5,2085
+suhani singhal,12009.25,2086
+miss aanu megwal,12008.0,2087
+deepa bhatt,12007.0,2088
+kunal @ kannu,12006.25,2089
+smt sudha,12004.25,2090
+ku ponam,12003.25,2091
+benjir heena mohd.,11999.75,2092
+bhawana sharma,11998.0,2093
+vishvash,11997.0,2094
+krishma,11996.5,2095
+ravinder kaur @ rajni,11996.5,2095
+dali,11993.25,2097
+manni @ manish,11992.25,2098
+gulfam,11991.25,2099
+madhu shukla @ shabana ben ajmeri,11990.25,2100
+rangeeta,11990.0,2101
+dixya kanwar,11989.5,2102
+harvindra singh,11988.5,2103
+vineta,11987.25,2104
+hini bibi,11986.25,2105
+miss. meera,11986.0,2106
+kamlesh krant,11980.75,2107
+ashok kharkwal,11980.0,2108
+khubhu,11980.0,2108
+shabbo devi,11978.75,2110
+shashi @ kajal,11978.0,2111
+sanjoh sorang,11978.0,2111
+urwashi,11977.5,2113
+kali devi,11977.5,2113
+smt premkanta,11974.75,2115
+paramshela,11974.75,2115
+urmila  rawat,11974.25,2117
+sheetal verma,11973.5,2118
+mukesh devi,11973.25,2119
+rekha urf annu,11972.75,2120
+rajesh,11972.0,2121
+smt madhu,11971.5,2122
+gulbasha,11970.0,2123
+monika  kanwar,11969.0,2124
+smt hasina @ buttr,11967.0,2125
+nasrin jaira,11964.0,2126
+sonyi,11964.0,2126
+rukhar,11963.0,2128
+tumpa das with a child roma das,11962.5,2129
+ku aachal,11961.0,2130
+ram singh,11960.5,2131
+kmo naina,11959.0,2132
+jashgul kaur,11957.25,2133
+aysha,11956.5,2134
+yasmin banu,11955.5,2135
+sunita yadav,11954.5,2136
+smt radha,11953.75,2137
+iswar sharan,11953.75,2137
+smt. jhamaku,11951.25,2139
+smt dhakha devi,11949.5,2140
+smt sawtri,11949.25,2141
+asha @ mamta,11948.0,2142
+anju goyal,11946.75,2143
+rekha davi,11946.5,2144
+chandrika nagar,11946.25,2145
+godambari devi,11944.5,2146
+mitali sahu,11944.0,2147
+smt baleshwari,11943.5,2148
+vibha,11942.5,2149
+mohseena biwi,11938.0,2150
+chanda @bharti,11937.5,2151
+tara kanwar,11936.0,2152
+smt. sefali das,11935.25,2153
+neetu sharma with a child,11932.25,2154
+dipanshi,11932.25,2154
+manpreet kaur @ preet,11931.5,2156
+salma biwi,11931.5,2156
+krishka,11931.0,2158
+marzina khatoon,11929.75,2159
+babita kumari,11929.25,2160
+madina,11929.0,2161
+paramdeep kaur,11928.25,2162
+samman,11926.75,2163
+babli sultana,11925.25,2164
+purnima gosawmi,11923.0,2165
+arun @ vicky,11922.75,2166
+nursa khatoon,11921.75,2167
+rubjaan bibi,11919.75,2168
+smt. balti,11918.5,2169
+long shree devi,11918.0,2170
+narayan parsad bhushal,11916.75,2171
+mehak,11916.0,2172
+firida,11915.5,2173
+sareen bano,11915.0,2174
+priya mishra,11914.25,2175
+farid,11913.5,2176
+kirti chawla,11913.0,2177
+devi jana,11912.25,2178
+namra parvez,11910.0,2179
+smt gulista,11909.75,2180
+pinki  kumari,11909.75,2180
+amritha,11909.5,2182
+khurshida bano,11905.25,2183
+susila gudiya,11903.0,2184
+rukshan,11902.75,2185
+khushbu rani,11901.0,2186
+ameera lakra,11900.25,2187
+samvedna,11899.25,2188
+prinkya ragav,11899.25,2188
+poonam devi,11898.25,2190
+rojmen,11897.25,2191
+lila bai,11897.25,2191
+chanderkala,11895.75,2193
+vineta kunwar,11895.5,2194
+sujata,11895.0,2195
+sarbjeet @ ronak,11893.75,2196
+reetima,11892.75,2197
+sarmila devi,11892.5,2198
+jashinal,11891.75,2199
+munna @ ravi jaiswal,11888.5,2200
+munesh,11888.25,2201
+priya @  himanshi,11887.75,2202
+smt. ratani,11887.25,2203
+jyoti gosyami,11886.75,2204
+monika munda,11886.5,2205
+mamata kumari,11883.25,2206
+smt. muslima bibi,11883.25,2206
+nandu,11883.0,2208
+ku. meena,11882.75,2209
+sunita pancholi,11880.0,2210
+safina malik,11879.5,2211
+chandra,11879.25,2212
+smt. gyatri devi,11879.0,2213
+smt. vidhya tiwari,11879.0,2213
+huma parveen,11875.5,2215
+lisha,11874.75,2216
+rekha rani,11873.75,2217
+jaydurga,11873.5,2218
+alisha khan,11872.5,2219
+smt narmda,11871.25,2220
+alina,11870.75,2221
+yogesh rawat,11870.0,2222
+anushka kanwar,11869.5,2223
+yamini,11869.0,2224
+smt. kamlesh,11869.0,2224
+vidya devi,11867.75,2226
+miss leela,11867.5,2227
+heena parveen,11864.0,2228
+nirmala kumari,11863.75,2229
+brinda,11863.5,2230
+malika,11862.75,2231
+ravish,11861.75,2232
+aruni,11861.75,2232
+surender,11861.5,2234
+anandi bai,11856.25,2235
+madam sahnaj,11855.75,2236
+devkali,11854.5,2237
+jareena,11853.25,2238
+jamna devi,11850.75,2239
+laxman,11850.25,2240
+gajala,11849.0,2241
+sarojini,11849.0,2241
+manbharbai,11845.75,2243
+rimmi singh,11843.5,2244
+rachpreet kaur,11843.0,2245
+jyoti @ muskan,11843.0,2245
+sunita rana,11842.0,2247
+ramesh kumar,11841.75,2248
+anita d/o ramewsh kumar,11840.5,2249
+chotti jha,11839.75,2250
+habiba,11839.25,2251
+nitu @ chander pati,11837.0,2252
+shimpi kumari,11831.0,2253
+nitasha,11830.5,2254
+renu joshi,11830.5,2254
+ku. suman,11829.75,2256
+seema vadhawa,11829.75,2256
+aman,11829.5,2258
+iqra,11829.5,2258
+suresh kumar,11828.5,2260
+sabana@moni,11826.0,2261
+ajahar,11824.0,2262
+deepanshi,11820.0,2263
+ashanjali,11819.0,2264
+shushila balai,11818.75,2265
+shana,11818.25,2266
+hema mali,11818.25,2266
+hailena,11818.0,2268
+ankit tiwari,11817.75,2269
+palvi sharma,11817.25,2270
+laxmi deve,11816.5,2271
+palvinder kaur,11816.25,2272
+neraj,11816.0,2273
+bhagwanti,11815.25,2274
+mrs. leela,11815.0,2275
+anita @ manju,11814.0,2276
+gaurav shankar,11810.75,2277
+diksha rana,11810.75,2277
+raisha bano,11808.5,2279
+devi d/o kailash,11807.25,2280
+bhanwar lal,11807.25,2280
+kumari divya urf kamal d/o babu lal bairwa,11806.75,2282
+sumedha mehditha,11806.0,2283
+jaya chauhan,11804.5,2284
+mem,11802.75,2285
+vidhya devi,11802.75,2285
+shiba,11802.0,2287
+harishankar verma,11801.5,2288
+priya @ sonu d/o,11800.5,2289
+neetu @ gaytri,11798.5,2290
+manormapal,11798.0,2291
+sarojani,11795.25,2292
+sahna,11794.0,2293
+rajeswary@rajo@chanchal,11792.25,2294
+gorav,11792.0,2295
+abhinav chaudhary,11791.0,2296
+arun kumar,11789.0,2297
+ikara noor,11787.75,2298
+mohit @ himanshu,11787.5,2299
+sunder,11787.25,2300
+anita vohra,11785.75,2301
+shorav,11785.25,2302
+ashra kaushar,11782.5,2303
+vinod devi,11780.0,2304
+asha kashyap,11779.25,2305
+kusum meena,11779.25,2305
+julekha banu @ sitara,11777.0,2307
+abhishekh,11776.0,2308
+suman sharma,11775.75,2309
+smt. shakuntala,11773.75,2310
+sema devi,11773.25,2311
+simpi kumari,11772.75,2312
+puran singh rastogi,11772.75,2312
+priyanka jat,11772.25,2314
+mithi urf mamta,11772.0,2315
+mamini,11771.0,2316
+sushmita bishwas,11771.0,2316
+suhaliya,11768.5,2318
+smt bitona,11768.0,2319
+phul kumari,11766.0,2320
+radhabai,11763.0,2321
+smt. laltesh,11763.0,2321
+ruchi singh,11763.0,2321
+dipendra kumar,11760.5,2324
+aliya,11760.0,2325
+gulshafa,11759.5,2326
+dumani munda,11758.0,2327
+shabana khatun,11758.0,2327
+bebi,11757.5,2329
+ku. fatma,11757.5,2329
+kumari neetu,11755.75,2331
+sonali haldar,11755.0,2332
+rajia,11754.5,2333
+deepak verma,11754.25,2334
+begam d/o,11754.25,2334
+manpreet kaur @ simran,11754.0,2336
+diksha @ billa,11754.0,2336
+reeta kapkoti,11753.5,2338
+mrs soni,11752.5,2339
+marya,11752.0,2340
+meenu @ monika,11751.75,2341
+smt. sukhdeep kaur w/o nishan singh,11751.5,2342
+rina/ rinu,11749.75,2343
+saru,11749.5,2344
+jharna sardar,11749.5,2344
+sahiba d/o,11747.75,2346
+bhanu sharma @ alish,11745.25,2347
+shashi shrada khalko,11743.25,2348
+rahul sharma,11743.25,2348
+uma @ reena,11743.25,2348
+ranju,11742.75,2351
+deepti shekhawat,11742.0,2352
+suganti @ sonali,11741.25,2353
+nuraish,11741.25,2353
+anushka,11739.75,2355
+"jamna d/o jaipal r/o d-773, j j colony, madipur, d",11739.5,2356
+prinka,11738.5,2357
+meghana,11738.25,2358
+meenu chawla,11736.25,2359
+smt mamta harijan,11733.75,2360
+beera,11731.25,2361
+smt. shila d/o bharulal jat,11730.5,2362
+cosmic,11730.0,2363
+manorma,11728.0,2364
+laxmi narayan,11728.0,2364
+sushree sagar,11727.75,2366
+dhansinghpuri,11724.25,2367
+mala witrh two child ritik age-3 & rohan age-6 yrs,11724.25,2367
+sarda,11724.0,2369
+triveni,11723.0,2370
+javitri,11718.5,2371
+tripti rawat,11717.75,2372
+bina bai,11717.0,2373
+kanku,11716.75,2374
+srita devi,11716.0,2375
+salupa,11716.0,2375
+sefali @ sweta,11715.0,2377
+aazadi@jully,11713.75,2378
+sunil ladkani,11711.75,2379
+km sunita,11708.75,2380
+jhuma,11707.5,2381
+seweta,11707.5,2381
+reekha,11706.0,2383
+shrishti,11704.5,2384
+parvinder,11702.5,2385
+roshni balai,11702.5,2385
+pappy,11702.0,2387
+varsha sharma,11701.5,2388
+smt kamlesh,11701.0,2389
+nasim,11698.5,2390
+kiran pande,11697.75,2391
+anita sharma,11697.25,2392
+seema gujar,11696.5,2393
+bindi budra,11696.5,2393
+meena w/o,11694.75,2395
+suman with a child vishal,11693.25,2396
+jagdish chand,11692.75,2397
+bohati devi,11692.25,2398
+machhala,11692.25,2398
+uma yadav,11691.75,2400
+hafsa draboo,11691.25,2401
+shetal,11690.0,2402
+santara,11689.5,2403
+sashi devi w/o- dinesh lal,11687.75,2404
+shanti bandiya,11687.5,2405
+veena tandan,11685.0,2406
+jhuhi,11684.75,2407
+nikil mishra,11684.75,2407
+praveena,11681.75,2409
+adnan,11681.75,2409
+huma @ nureen jahra,11680.5,2411
+shaheen,11679.0,2412
+suman rao,11679.0,2412
+afridi,11678.75,2414
+chhanya bai,11676.5,2415
+manni bai,11676.25,2416
+manmeet kaur,11675.0,2417
+kumari aasu,11675.0,2417
+niti,11674.75,2419
+jaitun,11674.5,2420
+gulfsal s/o rasid,11674.25,2421
+chanchl $ ghuddi,11673.75,2422
+champa karketta,11673.0,2423
+ravi,11672.25,2424
+joshna bai,11670.25,2425
+basnti,11668.5,2426
+ilema,11668.5,2426
+sneh lata,11665.0,2428
+pavitra,11663.75,2429
+avinsh,11663.5,2430
+miss koshalya,11662.25,2431
+bhatari,11662.25,2431
+smt. meera,11661.5,2433
+guddiya @ gita,11660.25,2434
+sadhna bhardwaj d/o uma shankar bhardwaj,11659.0,2435
+ramdhani w/o shivprasad,11657.75,2436
+santosh d/o gokul singh r/o kudi taragar  ps jawaj,11654.75,2437
+anguri,11653.5,2438
+pooja @aafrin,11652.25,2439
+smt. divya @ chhoti,11652.25,2439
+bharti kumari,11651.0,2441
+shrimati maya devi,11651.0,2441
+menadevi,11649.25,2443
+diya mandal,11648.5,2444
+alisha loomba,11646.75,2445
+nitika,11645.75,2446
+bharti pasi,11645.75,2446
+harpreet gil,11644.0,2448
+dhola bai,11643.0,2449
+himanshi @ roshani,11641.5,2450
+jyoti @ gudya,11639.5,2451
+malika biwi,11638.75,2452
+mitali,11638.0,2453
+prinka jha,11637.75,2454
+miss kanchan,11637.75,2454
+tulsi parashar,11636.75,2456
+anjara @ vicky,11636.5,2457
+mohd. firoz,11635.5,2458
+guddibai,11635.25,2459
+smt.sunita devi,11632.25,2460
+ku-pooja,11631.25,2461
+kavita manchanda,11630.5,2462
+seema rathore,11629.5,2463
+mhega,11629.5,2463
+mohd miraj ansari,11627.0,2465
+murari,11623.75,2466
+rakhi chauhan,11622.5,2467
+aamrin jahan,11622.0,2468
+meethu,11621.75,2469
+chandabai,11621.5,2470
+fozia,11617.5,2471
+almina,11617.5,2471
+lakhbir kaur,11617.5,2471
+pankaj saini,11617.25,2474
+jyoti @ punima,11615.5,2475
+rekhai,11614.25,2476
+devki @ devkumari,11613.25,2477
+sonu yadav,11612.75,2478
+dhakhadevi,11610.75,2479
+vicakha sahani,11610.5,2480
+ajra with child kadir,11609.25,2481
+karishma bathi,11607.5,2482
+sumanthra,11607.0,2483
+smt. pushplata,11606.0,2484
+rawi devi,11605.25,2485
+jag mohan,11604.5,2486
+kureja,11603.75,2487
+narbda,11603.75,2487
+alok tiwari,11603.5,2489
+nayana kumari,11602.75,2490
+bhagwati @ bhagoti devi,11602.25,2491
+vandna w/o sunny,11600.0,2492
+prem wati,11599.5,2493
+seema khatun,11599.25,2494
+nisha @ chinu,11598.0,2495
+pratima and her son aakash,11597.75,2496
+miss madhu meghwal,11597.5,2497
+ilma,11596.0,2498
+kosylaya,11595.0,2499
+annu kashyap,11591.0,2500
+mohit maan,11591.0,2500
+kashis,11590.75,2502
+rupa verma,11589.75,2503
+saveta,11589.5,2504
+payal kanvar,11588.25,2505
+sukenta,11587.25,2506
+subhash,11587.0,2507
+ku. shashi,11586.25,2508
+nusrat,11585.0,2509
+ram ldaike,11584.25,2510
+reena dass,11583.5,2511
+lakshmi devi,11583.25,2512
+nusrant,11582.75,2513
+divya kawar,11582.25,2514
+birjesh,11582.0,2515
+smt. madhu,11582.0,2515
+shyam kumar,11581.25,2517
+ganesi devi,11581.0,2518
+isha naaz,11580.0,2519
+smt  pinky @ sangeeta,11576.25,2520
+kamlesh gupta,11575.25,2521
+sohni,11572.75,2522
+priyanka @ priya,11572.5,2523
+meeta sharma,11571.5,2524
+fitrat,11570.5,2525
+shneha,11570.25,2526
+tanvi raheja,11570.0,2527
+bhanu,11569.5,2528
+kumari lelina,11569.25,2529
+ankit goyel,11565.75,2530
+gayatri @ rani,11565.75,2530
+smt dhaneshwari devi,11565.0,2532
+rashid,11565.0,2532
+mukesh soni,11565.0,2532
+asharani,11565.0,2532
+seeta masar,11564.5,2536
+muskhan,11564.0,2537
+soni@ chunnu,11564.0,2537
+gulfasa,11563.5,2539
+tiwankle,11563.5,2539
+smt.ranni,11562.25,2541
+preeti with a madhuri,11560.5,2542
+pammi,11558.0,2543
+smt parwati,11557.5,2544
+punita,11557.25,2545
+suman uppal,11555.25,2546
+smt ganga,11554.25,2547
+labbhi,11553.25,2548
+sonaki devi,11553.25,2548
+pooja chauhan,11552.75,2550
+priyanka bagcdani d/o gulab bagcdani r/o 11/95 c.h,11552.25,2551
+ntasha,11551.0,2552
+sehboob,11551.0,2552
+brahamprakash s/o meer singh,11549.5,2554
+nargish w/o,11549.25,2555
+rekha vays,11548.75,2556
+lata mandal,11548.25,2557
+mrs neha,11548.0,2558
+bhawana jat,11548.0,2558
+asman,11547.25,2560
+kumari nagma,11546.75,2561
+chander prabha,11546.75,2561
+madhuri bhandari,11546.0,2563
+amrit pal,11543.25,2564
+rajo devi,11542.25,2565
+smt rubi,11541.5,2566
+satender,11539.5,2567
+farah khan,11539.25,2568
+masuma khatun @ manju,11538.25,2569
+rashma jacob,11538.25,2569
+ruchi kumari,11537.25,2571
+manpreet kaur @preet,11537.0,2572
+kavita pal,11536.0,2573
+ritika sharma,11535.0,2574
+smt jyoti sharma,11532.25,2575
+kajal singh,11532.25,2575
+ravita  @ shyamwati,11531.75,2577
+bhag chand,11530.5,2578
+mudrika,11528.25,2579
+rajo sharma,11525.75,2580
+muni,11523.25,2581
+zeenat,11523.0,2582
+hema koli,11522.0,2583
+naveela,11520.75,2584
+neeta devi,11519.5,2585
+alima @ pinki,11519.0,2586
+sabana @ sabbo,11517.0,2587
+mushkan,11516.25,2588
+madhubala,11514.5,2589
+sakuntala,11512.25,2590
+smt. prami devi,11511.75,2591
+sameena,11510.5,2592
+najar hussan,11508.75,2593
+smt sarita,11507.5,2594
+jaimati,11507.25,2595
+geeta @ kamla,11507.0,2596
+rekha harijan,11506.0,2597
+reetu @ reeta,11505.5,2598
+chanchal kumari,11504.25,2599
+kumari mona,11503.5,2600
+brkha,11502.25,2601
+shayra,11501.0,2602
+susila rawat or arti rawat,11499.25,2603
+smt. chanda devi,11499.25,2603
+mohit,11499.0,2605
+"muskan d/o shiv kumar r/o c-78, shivaji park, punj",11498.25,2606
+smt gulkasha,11496.75,2607
+rahila maqbool,11495.75,2608
+vipol,11495.0,2609
+shefali@puja,11495.0,2609
+fareem,11494.5,2611
+laxmi @ kajal,11491.75,2612
+divya bharti,11491.5,2613
+sabhya shrama,11491.5,2613
+babloo,11489.25,2615
+babli d/o suresh,11489.0,2616
+nisat parveen,11486.5,2617
+baita,11485.25,2618
+saveena,11485.25,2618
+mira devi,11483.75,2620
+ravinder @ bacchi,11482.5,2621
+sohan lal,11480.0,2622
+iqrar,11479.75,2623
+amrita kaur,11478.5,2624
+renu kumari,11478.25,2625
+gourav,11478.0,2626
+sahaja,11477.0,2627
+anita w/o shimbhu,11476.5,2628
+devika goyal,11475.75,2629
+baby devi,11475.25,2630
+kali bai,11474.75,2631
+ku rajindre,11474.5,2632
+prinka shrma,11473.0,2633
+pappu @ mahender singh,11472.0,2634
+rita gupta,11469.75,2635
+aaradhana @ priyanka,11469.25,2636
+aakanksha,11469.0,2637
+maheshar jahan,11466.5,2638
+pushpawati,11462.5,2639
+neema rebari,11462.5,2639
+smt salni devi,11462.5,2639
+puspha,11461.25,2642
+kismti khatoon @ khushboo,11461.0,2643
+chandrakala,11461.0,2643
+neha parveen,11460.25,2645
+pushpan,11458.25,2646
+rina devi,11458.0,2647
+shailja jakhmola,11457.5,2648
+pallavi panchal,11457.0,2649
+iram naaz,11453.0,2650
+smt. laxmi bai,11450.75,2651
+mohan kumar,11448.75,2652
+smt basanti,11447.5,2653
+rasida khan,11446.75,2654
+sajiya katun,11445.5,2655
+bobi,11445.25,2656
+smt- lali devi,11444.0,2657
+fiza khan,11444.0,2657
+soona bai,11443.75,2659
+aanya @ china,11443.5,2660
+karishma devi,11440.5,2661
+pinkoo @ guddu,11436.5,2662
+sanju yadav,11436.25,2663
+chandra kanta saini,11435.0,2664
+parwati balai,11432.5,2665
+husainpreet kour,11429.75,2666
+veena sharma,11427.75,2667
+divaraj,11427.5,2668
+smt chanda,11426.75,2669
+smt. rashni,11426.75,2669
+jasina khatoon,11425.0,2671
+bishnu aale magar,11424.5,2672
+smt.sabita daive,11424.0,2673
+gulnaz,11423.75,2674
+zainab,11423.75,2674
+km varsha,11423.5,2676
+kosaleya d/osagar singh,11423.25,2677
+shahid,11421.75,2678
+priyansi,11420.25,2679
+mamta pandey,11417.75,2680
+adersen,11417.0,2681
+manvi,11416.5,2682
+gulafsa,11415.75,2683
+kailashi devi,11415.5,2684
+kamna devi,11414.75,2685
+yashmin,11414.75,2685
+smt. devki devi,11413.0,2687
+muskan kaur,11412.25,2688
+shekiba sheikh mohammad,11412.25,2688
+janki kumari,11412.0,2690
+smt asha,11408.75,2691
+geeta @ komal,11407.5,2692
+gulesta,11406.0,2693
+arvind agarwal @ pinto,11405.25,2694
+sunita kanwar,11404.75,2695
+nitam,11403.0,2696
+kum  mamta,11401.75,2697
+vimla devi,11400.0,2698
+farjanul nisha,11399.75,2699
+kumari reshma,11399.5,2700
+kamala,11397.5,2701
+bhanu priya,11395.25,2702
+smt. gudiya,11394.25,2703
+smt panchi devi urf sita devi,11394.25,2703
+vivek kumar,11394.25,2703
+araddhna,11393.25,2706
+bigan mehto,11393.25,2706
+soni khati,11393.0,2708
+monika panchal,11392.5,2709
+ku.swati pondayl,11389.25,2710
+priyanka sharma,11388.75,2711
+salu,11387.75,2712
+simmy m.no.-7206252659.,11386.25,2713
+navdeep kaur,11386.0,2714
+minakshi purohit,11385.75,2715
+felicia sequeira,11385.5,2716
+saroj god,11385.5,2716
+kavita harijan,11384.75,2718
+kamini w/o vicky,11383.25,2719
+ashsish kumar,11381.5,2720
+inderjit kaur,11380.75,2721
+nurbi,11377.25,2722
+ekta hans,11375.5,2723
+suchi sharma,11374.5,2724
+mahima bagga,11373.5,2725
+kuldeep singh,11368.75,2726
+gajana devi,11368.5,2727
+lal baano,11368.0,2728
+gudya singh,11366.75,2729
+gendu kunar,11366.5,2730
+dhanwanti  devi,11366.0,2731
+lata thakur,11366.0,2731
+radhab kumari,11365.75,2733
+saimun nisha,11362.75,2734
+tamnna,11358.75,2735
+pushpa tejshri,11357.75,2736
+neelima,11357.75,2736
+sunita @ kajal,11356.25,2738
+preeti   @    radha,11355.75,2739
+yameen,11354.75,2740
+mamita,11354.0,2741
+tarun,11353.0,2742
+naziya,11349.5,2743
+pooja ( with child ),11348.25,2744
+ram devi sharma,11348.0,2745
+b. vinothini,11346.5,2746
+gurmit sharma,11346.25,2747
+ranki,11346.0,2748
+rabina khatoon,11344.75,2749
+sonia verma,11344.25,2750
+ravi chandra natarajan,11342.25,2751
+pallvi,11342.25,2751
+namarta,11341.0,2753
+jioty bajaj,11339.75,2754
+batasi,11339.0,2755
+smt parmila,11338.25,2756
+bhuri vishnaw,11338.25,2756
+shumita,11338.0,2758
+nikky singh,11337.75,2759
+neetu yadav,11337.5,2760
+nargis bano,11337.0,2761
+sehnaj,11335.25,2762
+shanta koul,11335.0,2763
+turveny,11334.5,2764
+avastha khatun,11334.0,2765
+sri kant,11332.5,2766
+swata mishra,11332.0,2767
+mamta garg,11330.75,2768
+kum. maya,11330.5,2769
+arati kashyap,11329.5,2770
+karshana kumari,11329.5,2770
+sharmila,11326.5,2772
+huma khan,11325.75,2773
+shalini with child ayush age-6 yrs,11325.75,2773
+nashrin and her daughter jannat (both),11325.25,2775
+shittal,11325.25,2775
+rakhi sharma,11323.5,2777
+subhadra,11323.0,2778
+similata,11322.75,2779
+mansi @ minakshi,11322.25,2780
+durgabai,11321.25,2781
+smt. basanta devi,11321.0,2782
+parniti,11320.5,2783
+pooja @ rajiya,11320.0,2784
+mamta negi,11319.25,2785
+rukhsona,11318.25,2786
+parvati,11317.25,2787
+busra @ muskan,11317.0,2788
+ayub khan,11316.75,2789
+anjali sharma,11315.5,2790
+smt. susheela,11314.75,2791
+smt savita,11313.25,2792
+md. tavrej,11311.75,2793
+rani shrivastav,11310.0,2794
+kumari dipti,11309.5,2795
+smt. hanja bai,11307.5,2796
+anuradha @ anu,11305.75,2797
+divya kor,11305.25,2798
+salomi hemroda,11304.75,2799
+kumari payal sharma,11302.5,2800
+kulsum,11302.0,2801
+smt akhtri begam,11301.0,2802
+gytri  garg,11298.5,2803
+indra megwal,11298.5,2803
+jiya,11297.5,2805
+krishna devi,11296.0,2806
+aarifa bano,11295.75,2807
+sarla devi,11295.5,2808
+priyanka rawat,11295.25,2809
+mayuri,11294.75,2810
+km shivani,11294.5,2811
+sakiran begam,11294.25,2812
+mandira devi,11294.0,2813
+layba noor,11292.5,2814
+ku. neha,11292.5,2814
+smt sharshwati kanwar,11290.5,2816
+shabanm,11290.0,2817
+sanaali,11288.75,2818
+sonu dhakad,11286.75,2819
+kusham,11286.25,2820
+groti @ rati,11285.25,2821
+jamnaa devi,11284.75,2822
+ku. shabnam,11284.25,2823
+chhotudevi,11283.75,2824
+dimpal @doli,11281.0,2825
+sawatri devi,11280.0,2826
+jakra khatoon,11279.25,2827
+muskan@ruksher,11277.75,2828
+smt. udi,11274.25,2829
+saraswati thapa,11272.75,2830
+ram kishan,11272.5,2831
+srita,11270.75,2832
+samoti,11269.75,2833
+birtha devi,11268.25,2834
+tisha urf megha sen,11265.0,2835
+rajender @ kaku,11264.0,2836
+yukilal,11263.25,2837
+tulsi @ sulekha,11263.0,2838
+ram wati devi,11262.5,2839
+govind kunwar,11261.5,2840
+lalita meena,11261.5,2840
+sangeena,11260.5,2842
+shiya,11257.5,2843
+kumari roshan,11254.5,2844
+manita,11254.5,2844
+faijina,11253.25,2846
+suraj singh,11252.75,2847
+sunali,11251.75,2848
+ekta sharma,11251.5,2849
+shikha kumari,11251.5,2849
+nisha kapoor,11250.5,2851
+naziya siddiqui,11250.25,2852
+rupesh rathor,11248.75,2853
+mamta @ geeta,11247.75,2854
+kumari indira chand,11247.5,2855
+manju jha,11247.5,2855
+deepa shersht,11246.5,2857
+shanaj bano,11246.5,2857
+yashsvi sharma,11245.5,2859
+samima,11245.5,2859
+savina,11245.0,2861
+anil sharma,11244.75,2862
+dhanni devi,11243.5,2863
+seema verma,11243.0,2864
+saanu goyal,11241.75,2865
+mooli devi,11240.75,2866
+smt  archana,11239.0,2867
+nirmal kaur,11239.0,2867
+kanku dendor meena,11238.25,2869
+manisha bhardwaj,11237.75,2870
+jagviri,11237.25,2871
+muli,11237.0,2872
+bhavesh dass,11235.75,2873
+"rakhi with two child (devraj age-3 yrs,deepak age-",11234.75,2874
+smt. ramvati,11234.75,2874
+yognder,11234.5,2876
+preet,11232.5,2877
+laxmi @ roma,11232.25,2878
+kohinoor,11231.75,2879
+smt sudesh davi,11231.75,2879
+jharna,11229.0,2881
+rani sharma,11228.5,2882
+jai singh,11228.25,2883
+smt alkha,11227.75,2884
+lakhsmi devi,11227.25,2885
+resham talwar,11227.0,2886
+nasima @ reshma,11226.25,2887
+reena jain,11226.25,2887
+meenu devi,11222.0,2889
+rajni kaur,11221.25,2890
+dolat bano,11219.75,2891
+fool kunwar,11217.5,2892
+anjana kumari,11217.0,2893
+usha sen,11216.5,2894
+sameem,11216.25,2895
+pooja pal,11216.0,2896
+soniya @ soni kumari,11215.75,2897
+ritu  @ chotti,11215.5,2898
+saiesta,11211.75,2899
+mosmi sekh,11210.0,2900
+sakshi @ soniya,11209.0,2901
+mainka kumari,11209.0,2901
+girishchandra,11208.25,2903
+asha devi wth a child,11207.5,2904
+ruby w/o,11207.5,2904
+smt. savita,11207.25,2906
+km priya,11207.0,2907
+marium,11207.0,2907
+rajni kanwar,11204.75,2909
+malvika,11204.5,2910
+shabreen fatima,11203.5,2911
+mona @ mumtaj,11203.5,2911
+foranti,11203.25,2913
+smt anita,11202.75,2914
+neharika @ neha,11201.75,2915
+ku moni,11201.0,2916
+sumnesh,11200.75,2917
+rajni arya,11200.25,2918
+maj- koko khaing,11195.75,2919
+puneet jain,11193.5,2920
+zina kumari,11193.0,2921
+smt. anusuiya,11188.5,2922
+kanchan d/o kailash yadav,11187.0,2923
+shabreen,11186.75,2924
+najrin @ soniya,11183.5,2925
+khashbu,11183.0,2926
+sabana bano urf baiesa,11181.0,2927
+smt. seema kunwar,11180.25,2928
+indara,11179.75,2929
+sonia devi,11179.25,2930
+saista,11178.0,2931
+shaili,11176.75,2932
+monny,11174.75,2933
+aafreen fatima,11174.75,2933
+paramjeet kour,11171.75,2935
+kamre alam,11171.75,2935
+kumari shakshi,11171.0,2937
+varun chandela,11169.25,2938
+jatin @ sonu,11169.0,2939
+aruna devi,11168.75,2940
+nikita senger,11167.75,2941
+rekha kumari,11166.25,2942
+meena turi,11165.75,2943
+dariya kanwar,11165.5,2944
+ranjeeta,11165.0,2945
+humera,11162.25,2946
+mamta bhandari,11161.75,2947
+nagma khatoon,11161.25,2948
+rosy massey,11161.0,2949
+vikas gupta,11160.75,2950
+abhishek,11160.75,2950
+rishab,11160.0,2952
+sayna parveen,11160.0,2952
+sazia,11158.25,2954
+paka kanda swamy,11157.75,2955
+ramesh roat,11150.75,2956
+shkuntala,11147.5,2957
+veena gupta,11146.5,2958
+nazibuneesha @ shayba,11146.25,2959
+nootan,11146.25,2959
+chander shekhar,11146.0,2961
+anjli @ arti,11146.0,2961
+smt. laxmi devi,11146.0,2961
+lala bhai,11145.75,2964
+smt. indra,11145.75,2964
+tyara,11144.25,2966
+krishana bhandari,11142.25,2967
+smt. rajkanwar,11141.0,2968
+sultana begam,11140.75,2969
+smt. madina,11140.25,2970
+sagrika @ versha,11139.75,2971
+smt.sushil w/o fateh singh,11136.75,2972
+ramvati,11135.0,2973
+suman kushwah,11134.75,2974
+smt. anju,11134.0,2975
+aparna,11133.5,2976
+neeraj kumar,11130.25,2977
+jasmeet kour,11128.75,2978
+rajwanti kaur,11128.0,2979
+bhavna suthar,11127.75,2980
+avinash,11127.75,2980
+anju tomar,11126.75,2982
+jeenat jha,11125.75,2983
+sikandar,11124.0,2984
+swati joshi,11122.5,2985
+kanheya,11121.0,2986
+sarah wells,11119.5,2987
+pushpa thapa,11119.5,2987
+satyender @ kalu,11119.0,2989
+smt. guddi,11118.25,2990
+pyari,11117.75,2991
+abdul kadir,11117.25,2992
+rahi@ beby,11117.25,2992
+jasmina,11116.75,2994
+premla  or soni,11116.5,2995
+sabbo bano,11116.0,2996
+ranu tiwari,11115.25,2997
+nisha alongwith muskan age-3 yrs.,11115.0,2998
+gayatri @ babli,11113.75,2999
+manisha @ jyoti,11112.5,3000
+smt.sehran,11112.5,3000
+mayank chaudhary @ rahul,11112.25,3002
+deepali arora,11111.0,3003
+seva pati,11110.5,3004
+tavinder kumar,11110.0,3005
+km0 komal tomar,11109.0,3006
+praveen @ khushboo,11108.5,3007
+kumari mheraj,11107.25,3008
+rada,11107.25,3008
+gajender kumar,11107.0,3010
+lata jain,11106.0,3011
+spna,11105.75,3012
+saziya,11104.75,3013
+jamrujaha,11103.75,3014
+kamna,11103.25,3015
+manisha garg,11102.0,3016
+puja chauhan,11101.75,3017
+deepa kumari,11101.25,3018
+tane jain,11099.5,3019
+rajenderi,11099.5,3019
+farhib,11099.5,3019
+zeba parveen,11094.5,3022
+lalita kumari,11090.5,3023
+mam kaur,11089.0,3024
+nayamati,11088.75,3025
+fareen,11087.75,3026
+sanjay kumar @ pappu,11086.75,3027
+lila kumari,11086.25,3028
+joginder kaur,11086.25,3028
+shivani devi,11086.0,3030
+fazia,11084.75,3031
+kishana bai,11083.0,3032
+musra khatoon,11082.75,3033
+farha  khan,11081.25,3034
+ms. jayanti (maid),11080.5,3035
+swaliya,11080.25,3036
+rambai,11080.25,3036
+dharmbir,11080.0,3038
+kosalya with a child ashu,11079.25,3039
+smt.beena chouhan,11079.0,3040
+smt aachal,11078.5,3041
+musarrat,11078.25,3042
+tausin,11077.75,3043
+bharati@ruchika,11077.75,3043
+mahvish,11077.75,3043
+smt radha devi,11076.25,3046
+tabssum @ gudiya,11075.75,3047
+saahin,11072.5,3048
+neha thakur,11070.75,3049
+roshan khatoon,11070.75,3049
+sahiba,11068.25,3051
+kosar bano,11068.0,3052
+smt. annpurna,11067.0,3053
+farmaan khan,11067.0,3053
+harman singh,11065.5,3055
+reshama,11065.0,3056
+nandkishore karpenter,11062.25,3057
+devi saraswati @ sapna,11061.0,3058
+majidunisha,11061.0,3058
+kailaki devi,11060.5,3060
+sanju kanwar w/o,11060.25,3061
+sumanlta,11060.0,3062
+nenshi,11060.0,3062
+suchitra,11058.5,3064
+akram,11058.25,3065
+munjira bibi,11056.5,3066
+sushela devi,11055.0,3067
+parmila,11055.0,3067
+seema chauhan,11054.5,3069
+kanti prshad,11054.5,3069
+shree susila bali,11054.5,3069
+any bobby,11053.25,3072
+renu @ rinki,11052.0,3073
+roshani bhati,11051.75,3074
+vimal verma,11051.25,3075
+kushum @ khushbu,11050.75,3076
+chumki,11050.75,3076
+mushir ahmed,11048.75,3078
+ku rangeeta,11046.75,3079
+kumari rachna,11045.5,3080
+jayoti,11044.5,3081
+jaimala @ chanchal,11044.0,3082
+soniya hudda,11043.25,3083
+munni sharma,11043.0,3084
+smt amarin bano,11041.75,3085
+uttam kumar @ sanki,11041.0,3086
+guljan,11040.75,3087
+smt lali devi,11039.25,3088
+rema,11037.5,3089
+dvndavva s basava prabhu,11036.75,3090
+mustafa,11035.5,3091
+alisha jain,11035.25,3092
+padma,11034.25,3093
+uma @ barkha,11034.0,3094
+ishu,11031.25,3095
+kumari sonu,11030.25,3096
+anita suthar,11027.25,3097
+reena kumari sharma,11027.0,3098
+kumari vinita,11026.25,3099
+tammanne,11025.5,3100
+vibha bassi,11024.5,3101
+bandana,11024.25,3102
+pritam singh,11024.0,3103
+babita singh,11023.0,3104
+eshavarya @ prachi,11022.25,3105
+priya kaur sandhu,11021.75,3106
+sen kanwar gochar,11021.25,3107
+supyar bagriya,11020.0,3108
+meenu @ minakshi,11019.75,3109
+pradeep,11017.75,3110
+poonam soni,11017.75,3110
+tarachand @ pappu,11017.75,3110
+bhavna makwana,11016.0,3113
+smt. sukhwanti bai,11014.75,3114
+aayesha khatun,11013.25,3115
+snjana,11011.0,3116
+??????,11010.0,3117
+sanam lohar,11008.75,3118
+mahrul nisha,11008.25,3119
+smt. pujadevi,11008.0,3120
+ram lal bhardwaj,11003.75,3121
+tara devi,11003.75,3121
+aasu,11003.5,3123
+deepa saini,11002.5,3124
+farida khan,10999.0,3125
+shalu sabarwal,10997.5,3126
+smt preeti,10995.75,3127
+haseen ahmed,10995.0,3128
+veronika bhinder,10993.25,3129
+parmita,10992.75,3130
+pratibha pareek,10992.5,3131
+rani kumari,10989.25,3132
+priya rawat,10986.5,3133
+rubee,10986.0,3134
+vishal @ moni,10986.0,3134
+mamta patidar,10985.5,3136
+gilbahar,10984.75,3137
+manisa,10982.75,3138
+mehnaz azmi,10981.0,3139
+aayana,10980.75,3140
+jony,10978.75,3141
+aarti singh @ pooja,10977.75,3142
+mandira  devi,10977.25,3143
+pooran chand,10976.75,3144
+smt. sushila,10976.25,3145
+mohd aslam,10973.25,3146
+savrin,10971.75,3147
+anita bai,10971.5,3148
+nasreen,10971.25,3149
+shsi kant,10970.75,3150
+smt meena devi,10970.75,3150
+kamlesh kanwar,10969.5,3152
+bhanupriya,10968.75,3153
+sazi,10968.5,3154
+nisha @ neeshu,10960.75,3155
+smt. chanchal,10960.25,3156
+usha nagar,10960.0,3157
+anguri bai,10959.0,3158
+somwati,10958.75,3159
+hina parvin,10957.75,3160
+smt. urmila,10957.5,3161
+sweta anand,10957.25,3162
+lilavati kumari,10955.25,3163
+reema jha,10953.5,3164
+nagma khan,10952.5,3165
+hukum chand,10946.0,3166
+yashodha devi,10945.0,3167
+pryanka god,10944.25,3168
+spana,10943.75,3169
+ruksana bi,10942.75,3170
+bakhtvaar jahan,10942.5,3171
+sunny,10941.75,3172
+veejita,10941.25,3173
+mehru nisha,10937.25,3174
+dhapu,10937.0,3175
+smt mholani,10935.75,3176
+sanju urf sanjya,10935.5,3177
+philomina,10935.25,3178
+gurpreet,10934.75,3179
+poornima,10934.0,3180
+menka,10933.25,3181
+annu devi,10931.0,3182
+ravinda kumari,10930.0,3183
+kavita & sangita,10929.5,3184
+meeramai,10929.0,3185
+sonam bano,10928.5,3186
+karma yadav,10928.0,3187
+smt lata,10928.0,3187
+firakat ali,10927.5,3189
+chhabi rani dass,10927.5,3189
+pharjana,10927.0,3191
+tehmina,10926.0,3192
+shahina @ moti,10924.5,3193
+asho,10923.0,3194
+aleesha,10920.75,3195
+jay shree panchal,10919.75,3196
+seema @ simran,10919.25,3197
+mahavir,10918.75,3198
+juber,10918.5,3199
+smt nilam,10917.5,3200
+azmira,10917.25,3201
+manisha @ lutka,10914.75,3202
+sidhi,10914.5,3203
+fareena,10914.0,3204
+palak @ simran,10914.0,3204
+gulnaaz,10912.75,3206
+manju with her child ritika,10912.25,3207
+amina begam,10911.75,3208
+punit,10910.75,3209
+satwanti,10910.5,3210
+tasnim firoz,10909.75,3211
+sonu bhawsar,10909.5,3212
+tripta,10905.75,3213
+pabu devi,10905.5,3214
+ankita kanwar rathore,10905.25,3215
+ajit,10904.25,3216
+manoj kanwar,10904.0,3217
+st sakuntala gulati,10903.5,3218
+laxmeena,10900.75,3219
+priya gupta,10899.25,3220
+smt. sheetal,10897.25,3221
+jyoti devi,10897.25,3221
+ladli,10895.5,3223
+ruksana bano with her son or daughter,10894.5,3224
+najmin banu pathan,10894.5,3224
+annu soni,10894.5,3224
+rukiya khan,10894.0,3227
+annavi begam,10893.75,3228
+aditya som,10893.0,3229
+aamir hussain,10892.5,3230
+aarti diwakar,10892.0,3231
+salima,10891.25,3232
+neraj @ pooja,10891.25,3232
+chitra,10890.5,3234
+lc mojis,10890.25,3235
+sayma,10889.75,3236
+sunpreet kaur d/o,10889.25,3237
+parmita ray,10888.75,3238
+ku. pushpa,10886.75,3239
+smt. parvti devi,10885.75,3240
+asma khatun,10885.5,3241
+ujamma,10884.75,3242
+pramjot singh,10880.25,3243
+arti devi with two child dhanraj & anushka,10879.75,3244
+kajal @ sonia,10878.0,3245
+jahirul nisha,10877.75,3246
+kumari reena,10876.5,3247
+nisha parveen,10876.0,3248
+arti devi,10874.0,3249
+vandana kumari,10869.25,3250
+laxmi devi w/o late sh hukan chand,10867.5,3251
+sayda begam,10867.25,3252
+shushma,10867.0,3253
+talim,10866.0,3254
+tahir,10864.5,3255
+mantu kumar,10864.25,3256
+maya dhaval,10864.25,3256
+nikhat khatoon,10863.75,3258
+vikram dubey,10861.5,3259
+smt. rashida khatoon,10861.5,3259
+sushma devi,10859.0,3261
+smt rajni,10858.5,3262
+smt neetu,10854.75,3263
+alam aara,10854.75,3263
+hira devi,10854.5,3265
+manoti dass,10854.25,3266
+shabila,10853.5,3267
+saksi sharma,10853.25,3268
+jayotli,10853.0,3269
+richa kumari,10852.75,3270
+noor subha @ heena,10852.25,3271
+azruddin,10852.0,3272
+husina,10851.75,3273
+shgita,10850.0,3274
+neetu sain,10847.25,3275
+ku. pinkee,10847.25,3275
+smt husna,10845.75,3277
+chanchal sharma,10844.75,3278
+ramdulari,10844.5,3279
+mukhtyar hussain,10844.25,3280
+suma,10843.5,3281
+rampayari,10837.75,3282
+shashi kala,10837.25,3283
+preeti joshi,10834.25,3284
+samsida,10833.25,3285
+nagma praveen,10832.75,3286
+twinkle,10830.25,3287
+durga  with her son aayush,10829.75,3288
+manisha meena,10829.0,3289
+rabina khatun,10827.75,3290
+mohammad ali,10826.5,3291
+nilam sharma,10826.25,3292
+vakila,10825.25,3293
+smt kamla deve,10824.0,3294
+kitti,10823.25,3295
+renuka @ reshu,10822.75,3296
+jayada khatoon,10822.5,3297
+sobha veshy,10821.75,3298
+arjina,10821.5,3299
+sone lal shah,10820.75,3300
+ragni,10819.75,3301
+nooreen aarsi,10819.75,3301
+santi with sons suraj and nitin,10819.25,3303
+abhinav vashit,10819.25,3303
+papu devi,10817.75,3305
+suman lata,10817.75,3305
+iesha,10816.0,3307
+nisha hajra,10815.25,3308
+smt shalu,10814.5,3309
+sunaina,10812.25,3310
+annu kumari,10811.0,3311
+smt versha,10810.5,3312
+bhanweri,10805.5,3313
+shetal rani,10805.25,3314
+rajiv bagoriya,10805.0,3315
+smt sarita davi,10804.5,3316
+smt ladidavi,10804.25,3317
+birmati,10801.75,3318
+monika tyagi,10800.5,3319
+sonam @ ranjana,10799.75,3320
+ranjana singh,10799.5,3321
+jaimata,10797.25,3322
+pooga,10794.0,3323
+babita negi,10792.75,3324
+preeti singh,10792.25,3325
+babita khatoon,10791.5,3326
+shkundla devi,10791.5,3326
+fakiri,10785.5,3328
+farzana khatoon,10784.5,3329
+manbhar bai,10783.5,3330
+smt kajal,10781.5,3331
+arti kumari,10779.75,3332
+bharat,10778.25,3333
+jamila khatun,10778.0,3334
+jhoti,10776.75,3335
+abhijeet,10775.5,3336
+smt kelashi,10774.75,3337
+komal @ manju,10773.5,3338
+pooja pandya,10772.25,3339
+deepti @ meenu,10771.25,3340
+noorin,10770.75,3341
+shahnaz,10769.5,3342
+shafibul,10769.5,3342
+safia khatun mandal,10769.5,3342
+mamta jha,10768.75,3345
+rajinder kaur,10767.75,3346
+poga,10767.5,3347
+leela meena,10763.0,3348
+kanchaniya,10759.0,3349
+lalita dobhal,10758.5,3350
+shakshi@ megha,10757.5,3351
+najma khatun,10756.75,3352
+smt rani devi,10755.5,3353
+fornta,10753.25,3354
+gulshana,10753.0,3355
+smt. teena gameti,10753.0,3355
+ashwani chhabra,10751.75,3357
+kusum devi,10751.75,3357
+muskan urf suman,10751.0,3359
+jenifer,10750.5,3360
+riya masi,10750.0,3361
+nilam,10749.5,3362
+"pooja with three child (vikash,aakash,khushi)",10749.25,3363
+nirmal kour,10749.0,3364
+meenakshi sharma,10748.25,3365
+raju damor,10747.5,3366
+attar kali,10745.75,3367
+vibhuti shyamal,10745.25,3368
+tarawati devi,10745.0,3369
+km simarjeet kaur,10744.25,3370
+nidhi jaysika,10743.75,3371
+badami,10743.25,3372
+hazra,10743.25,3372
+kumari himanshi,10742.0,3374
+gora,10742.0,3374
+gendi,10741.75,3376
+sweta kumari,10741.5,3377
+renu gupta,10741.25,3378
+anshul,10740.5,3379
+noojo khatoon,10739.5,3380
+savitri bai,10737.75,3381
+durgash urf mahi,10737.75,3381
+sunder bai,10736.5,3383
+kajal @ sunita,10735.5,3384
+sudha kumari,10734.0,3385
+kayamuddin,10732.0,3386
+smt devli,10730.0,3387
+aman gill,10729.5,3388
+smt payal,10729.25,3389
+suman nagar,10729.0,3390
+meenu rani,10728.5,3391
+sneha kumari,10728.5,3391
+tavvasum,10727.0,3393
+smt sudha bisht,10722.25,3394
+amrudin,10722.0,3395
+smt. gyattri bai,10721.0,3396
+seema @ neha,10718.5,3397
+nand kanvari,10716.5,3398
+smt sakura brn,10716.0,3399
+sukhdev,10714.0,3400
+firdosh bano @ asha,10714.0,3400
+kanta sharma,10713.75,3402
+kumari joyti,10711.75,3403
+om parkash ahuja,10711.75,3403
+badrunisha,10710.25,3405
+kashish gupta @ hema gupta,10709.25,3406
+smt shyani devi,10709.25,3406
+smt. renu@rinki,10708.75,3408
+heera lal @ sunil kanojia,10708.5,3409
+phoola,10708.25,3410
+yashdhra,10708.25,3410
+ashok kumar s/o,10707.5,3412
+punam kumari,10706.25,3413
+guddi with 02 children,10706.0,3414
+mobsheera haider (shadiya),10705.0,3415
+hasina bano,10703.5,3416
+firdous,10703.0,3417
+namen khatun,10702.75,3418
+rajbir,10702.5,3419
+dev kanwar,10702.25,3420
+sudha devi,10702.25,3420
+dinesh singh rana,10701.25,3422
+radhika jain,10700.0,3423
+shashibala,10699.5,3424
+jasvinder kaur w/ gurbeg singh,10699.5,3424
+smt krishana,10699.0,3426
+siya kandwal,10698.0,3427
+jasbir kaur w/o,10697.0,3428
+joohi,10696.25,3429
+rajesh kumar,10696.0,3430
+neelam kaur,10694.75,3431
+pavan sharma,10691.5,3432
+manisha sharma,10691.25,3433
+uma bharti,10691.0,3434
+umda khatoon,10690.75,3435
+ku. sandiya,10689.75,3436
+ranveer singh,10689.5,3437
+madhu @ anita,10688.75,3438
+nanku prasad,10688.5,3439
+sahida laskar,10687.5,3440
+anita alongwith her child prince,10686.75,3441
+parvesh kumari,10684.75,3442
+sazya,10684.0,3443
+megha gupta,10684.0,3443
+prya @ choti,10680.75,3445
+sania,10680.5,3446
+alema,10680.25,3447
+sinaa bnau,10678.0,3448
+smt. richa sharma,10676.5,3449
+smt. soni,10676.25,3450
+neeraj kandari,10674.5,3451
+kalyani patro,10673.75,3452
+ms irshrat,10673.5,3453
+simren,10672.75,3454
+narmda,10671.5,3455
+smt. ugam  kanwar,10669.75,3456
+mamta sharma,10668.75,3457
+shivani :yadav @ shalu,10668.75,3457
+smt. krishana devi,10667.0,3459
+smt lata devi,10666.75,3460
+naseeba,10666.5,3461
+amar deep kaur,10666.0,3462
+smt. rafikan,10665.0,3463
+suntia,10664.75,3464
+sahanaj khatun,10663.0,3465
+naseem,10662.0,3466
+nirosha,10661.5,3467
+suman gungi,10659.0,3468
+ganga ram,10658.5,3469
+smt shikha haldhar,10654.75,3470
+swagtika,10652.5,3471
+gajwanti @ manju,10651.75,3472
+vakil,10651.0,3473
+kumari hemlata,10649.0,3474
+chanchal @ komal,10648.75,3475
+smt. phuli devi,10648.5,3476
+smt. parul,10647.25,3477
+smt  deepmala,10646.0,3478
+neetu @ kajal,10645.25,3479
+smt dhapa devi,10643.75,3480
+mukul verma,10643.25,3481
+kavit goyar,10643.0,3482
+gaurav,10642.5,3483
+disi nang @ manju,10642.0,3484
+aashi,10641.5,3485
+ram chander jha,10641.0,3486
+bulbul,10640.25,3487
+darkash,10639.75,3488
+sundri,10639.25,3489
+kumari archana,10639.0,3490
+sohnal kumar singh,10635.0,3491
+khushi  kumari,10634.75,3492
+jarim,10634.75,3492
+ku dolly,10634.5,3494
+smt hasina @ nasima,10634.0,3495
+jamila khatoon,10634.0,3495
+neha @ baby,10632.75,3497
+saalu,10632.25,3498
+raghunandan das,10631.5,3499
+honey,10630.5,3500
+amirul nisha,10628.0,3501
+sujen manjhi,10627.5,3502
+sonali bankoti,10625.25,3503
+km doli,10623.0,3504
+ram kali,10622.0,3505
+lal chand,10622.0,3505
+lushi,10622.0,3505
+mamuna @ dholi,10621.25,3508
+dinesh kumar,10621.25,3508
+veenu,10620.5,3510
+smt.farhana baigum,10619.25,3511
+prity,10619.25,3511
+minakshi sharma,10618.0,3513
+rijwana tarnum,10618.0,3513
+runiya,10617.5,3515
+omparkash,10617.0,3516
+kritika@kittu,10615.75,3517
+shabina praveen,10612.0,3518
+astha pareek,10610.5,3519
+parul devi,10610.25,3520
+smt sangita,10609.75,3521
+smt. resham,10609.0,3522
+khushboo kumari,10608.75,3523
+pooja handa,10607.0,3524
+kumari farhin,10607.0,3524
+shreemati nirmala padwala,10605.5,3526
+hazu roat,10605.25,3527
+komal panwar,10605.25,3527
+somi toddu,10604.25,3529
+meenu vishwas,10601.0,3530
+jyoti joshi,10600.75,3531
+mamta begam,10599.0,3532
+san jan devi,10597.75,3533
+kumari firdosh,10595.25,3534
+pramod paswan,10595.0,3535
+jincy varghese,10594.25,3536
+champa @ hema,10592.0,3537
+sangeeta mahali,10591.0,3538
+rahina,10590.5,3539
+samir mishra,10590.5,3539
+genda,10587.75,3541
+gila bai,10587.25,3542
+savita @ guddu,10586.0,3543
+sahil tigga,10585.0,3544
+deepika age 18,10584.0,3545
+reena @ laxmi,10583.5,3546
+smt sima,10583.25,3547
+mansi khurana,10583.0,3548
+gita pokharial,10582.5,3549
+gulfara,10582.25,3550
+soni@ kanchan devi,10581.75,3551
+harpreet kaur w/o,10581.25,3552
+nazrin,10581.0,3553
+shiv kumari,10580.5,3554
+surendra,10580.0,3555
+mandeep kaur,10579.75,3556
+sharadhha,10579.5,3557
+ram dayal,10575.5,3558
+ugma parveen,10575.0,3559
+rinukanwr,10573.75,3560
+babita @ binny,10573.75,3560
+megha bhasin,10572.25,3562
+jyoty,10571.75,3563
+noorjaha,10569.25,3564
+sandhaya,10568.25,3565
+bantu devi,10567.5,3566
+lalita sharma,10566.75,3567
+kanchan dev,10563.0,3568
+kumari jeda,10562.25,3569
+moshri,10560.75,3570
+kalyani kumari,10560.25,3571
+w/o kundan kumar,10560.25,3571
+yasib,10560.25,3571
+su-shree    pooja,10558.75,3574
+pooja garg,10558.0,3575
+rucksana,10555.5,3576
+tabwsum,10555.25,3577
+kulvinder kaur,10554.5,3578
+joyti @ bhagwati,10554.25,3579
+rebecca xavier,10552.25,3580
+sandeep meghawal,10552.25,3580
+kumari anita,10548.5,3582
+vijay virmani,10548.25,3583
+km. rekha chilwal,10547.25,3584
+mithu,10546.75,3585
+nehal kumari,10546.5,3586
+rajlaxmi,10545.75,3587
+ashtha,10545.5,3588
+lalita  devi,10542.25,3589
+manuja,10540.0,3590
+kalashi devi bairwa,10537.75,3591
+sajana,10537.25,3592
+saviha,10536.75,3593
+vinna,10534.25,3594
+vijay lakshmi,10531.75,3595
+akash tomer,10529.25,3596
+khairu nisha,10528.75,3597
+akhtari,10526.75,3598
+meenakshi raj sharma,10525.75,3599
+veeru kumari,10525.5,3600
+kusuma devi,10523.75,3601
+snah lata,10523.75,3601
+nisha kandwal,10523.25,3603
+roshni khan,10523.0,3604
+lavpreet kour,10521.5,3605
+mahabir prasad,10520.25,3606
+priti gujrati,10519.0,3607
+gouri mailwad,10518.25,3608
+sahana parveen @ nisha,10516.75,3609
+smt. kamla devi,10515.5,3610
+sangita yadav,10515.25,3611
+nirmla devi,10513.5,3612
+sushant,10512.75,3613
+vandhna,10511.25,3614
+divya kapoor,10509.75,3615
+priyaki rav,10508.25,3616
+santosh rani,10508.25,3616
+jitender rajak,10504.5,3618
+pintu kumar,10501.75,3619
+kumari shilpa,10500.5,3620
+chhavi,10500.5,3620
+shiv kumar,10498.75,3622
+klu kumari rokaya,10496.5,3623
+kumari sanju,10494.5,3624
+laxmi sarpota,10494.25,3625
+pooja @ chunnu,10492.25,3626
+anshiya mehta,10492.0,3627
+vinod lal,10491.0,3628
+premo devi,10489.25,3629
+rehana praveen,10488.5,3630
+saroj @ savita,10487.5,3631
+smt kristina,10487.5,3631
+smt tara devi,10487.0,3633
+veenita,10486.75,3634
+sulekha kumari,10486.25,3635
+hina kanwar,10485.25,3636
+roopa kumar,10484.75,3637
+nithyanandham,10484.5,3638
+laxmi bai,10483.5,3639
+bulbul  devi,10483.25,3640
+manlisa bairwa,10481.5,3641
+sharuna,10479.75,3642
+biwa kumari,10478.25,3643
+kushma,10477.25,3644
+gurmel kour,10472.75,3645
+amiraka,10471.0,3646
+smt.pooja,10469.5,3647
+reshma khatoon,10469.25,3648
+anita vyas,10469.0,3649
+padama bai luhar,10467.25,3650
+gaurav sethi,10467.25,3650
+jaipal,10465.0,3652
+sagita@harsita,10465.0,3652
+smt. sonu kumari,10463.75,3654
+jameela,10463.75,3654
+meethu sarkar,10463.5,3656
+smt. uma halshi,10461.5,3657
+urmila w/o lt. ashok kumar,10457.5,3658
+manbai rekwar,10456.75,3659
+devli,10455.75,3660
+gopi devi,10453.75,3661
+km0 reena,10452.0,3662
+mursida,10452.0,3662
+sitra,10450.25,3664
+ravinder,10448.75,3665
+nupur,10447.25,3666
+tara d/o shivmurti,10446.75,3667
+sudesh kumari,10446.5,3668
+panchuri,10445.0,3669
+gyan devi @ biba,10441.0,3670
+mubarik,10441.0,3670
+pawan kumar @ sonu,10439.0,3672
+neha @ monti,10437.75,3673
+ajnabi begum,10437.75,3673
+sameer,10437.25,3675
+pinkey,10435.5,3676
+kuntesh @ kunti,10431.75,3677
+asmin,10431.5,3678
+sony jha,10430.5,3679
+moti devi,10429.75,3680
+sumitra roat,10429.75,3680
+nirutma,10428.5,3682
+vidhavati,10426.75,3683
+seema sinha,10424.75,3684
+su-shree  pishta,10424.0,3685
+shahnawaz,10423.0,3686
+amijan,10420.0,3687
+pooja@neha,10419.0,3688
+manju roy,10418.25,3689
+mansavi @mahi,10418.0,3690
+babbu singh,10417.75,3691
+shravani shah,10415.0,3692
+bakila w/ o ankil,10412.5,3693
+teena bhambi,10412.25,3694
+buity,10412.0,3695
+selars,10408.75,3696
+monu kumar,10408.5,3697
+omwati,10407.75,3698
+nandini devi (  with child 2 year shivam ),10407.25,3699
+kelama devi,10406.5,3700
+shahnawaj,10406.5,3700
+roshanara begam,10406.25,3702
+fatima khatton alongwith her child,10405.25,3703
+satnam kaur,10404.25,3704
+soniya w/o jauhar,10401.75,3705
+km shakshi,10400.5,3706
+vasim,10399.25,3707
+shagufta@munny,10398.5,3708
+jeta,10397.75,3709
+indra sain,10397.75,3709
+smt savita devi,10397.5,3711
+tanushri,10394.75,3712
+rumal  kumari,10394.5,3713
+sangeeta pandey,10393.75,3714
+nanshi,10393.0,3715
+km. sarita,10392.75,3716
+nikita @ sweety,10392.5,3717
+devya soni @ poonam,10391.75,3718
+amarapal,10391.75,3718
+ishrat khatoon,10384.0,3720
+nilofar,10381.75,3721
+kherul nisha,10381.75,3721
+smt. ganga devi,10381.0,3723
+kali devi meena,10378.0,3724
+lada bai  marubhat,10375.75,3725
+laxmi divi,10375.5,3726
+poonam das,10372.5,3727
+diksha chaudhary,10372.0,3728
+shilly parveen,10371.0,3729
+sushmita mandal,10369.75,3730
+manisha patidar,10369.5,3731
+marti kalasua,10369.0,3732
+km rippi,10368.75,3733
+reeta  and her doughter surabhi,10368.75,3733
+ms bharti,10368.25,3735
+sonia kapoor,10367.25,3736
+ravina kumari,10365.75,3737
+kanchan devi,10365.5,3738
+nitu kumari,10365.5,3738
+nanda devi,10364.0,3740
+rawana khatoon,10363.5,3741
+smt. ladu kunwar,10361.75,3742
+smt samrin,10361.5,3743
+babita kaushik,10361.25,3744
+smt nargish,10360.5,3745
+"nisha ,",10357.0,3746
+sarika,10355.25,3747
+nisha@neelam,10354.75,3748
+saksi chandna,10353.75,3749
+poojadevi,10353.75,3749
+jyoti / navjot kor / neha,10352.75,3751
+smt usha,10352.5,3752
+basiran,10351.5,3753
+akshay kumar,10350.75,3754
+sehran nisha,10350.25,3755
+payana nagar,10350.25,3755
+puspa& rekha,10345.5,3757
+prabhjot kaur,10343.5,3758
+khushnasiba,10342.25,3759
+ruby bhoura,10341.5,3760
+kumari deepa,10341.0,3761
+ranu yadev,10341.0,3761
+prinka bhanshali,10340.25,3763
+pargati thakur,10340.0,3764
+miss kamlesh,10340.0,3764
+narender,10338.5,3766
+sayara,10338.25,3767
+lakshman nath,10334.75,3768
+vyelet moni,10334.75,3768
+khusbu regar,10334.25,3770
+anwari,10334.25,3770
+pryinka,10334.0,3772
+rinka,10332.25,3773
+anwar,10323.75,3774
+himanshi kalshi,10323.5,3775
+hema mehta,10323.0,3776
+suman or lali meena,10322.0,3777
+saira bano,10320.75,3778
+smt gori barman,10320.25,3779
+priya mali,10320.25,3779
+rubina jahan,10319.5,3781
+santosh with a child rishi kumar,10319.0,3782
+nilam devi,10317.75,3783
+ritu raj kumar,10317.0,3784
+wilkish,10316.25,3785
+raminder kaur,10312.75,3786
+alahbasri,10312.5,3787
+alita kujur,10312.0,3788
+kumari endra chand,10310.5,3789
+srimati radhika,10308.75,3790
+na,10308.0,3791
+shabbenour,10307.75,3792
+amit kumar yadav,10304.25,3793
+jyoti gaba,10303.75,3794
+gaytri devi,10303.5,3795
+roji,10303.25,3796
+azaz,10302.5,3797
+smt  kanchan devi,10300.75,3798
+bhola sarkar,10300.75,3798
+maina d/o ratna lal  gurjar,10300.25,3800
+sandhya @ soni,10297.5,3801
+smt mithlesh,10296.0,3802
+inderpal,10296.0,3802
+manju saini,10296.0,3802
+chetanya swaroop,10293.75,3805
+zenab khan,10292.25,3806
+sushila kapoor,10289.5,3807
+darshna,10286.0,3808
+inderjeet,10278.75,3809
+kanika kathuria,10277.75,3810
+pinki yadav,10277.5,3811
+ku. anshita singh,10276.5,3812
+smt deu,10273.0,3813
+kushumavati,10272.75,3814
+jyoti tiwari,10269.75,3815
+keshar,10267.5,3816
+risabh,10265.5,3817
+ranjit kaur,10265.25,3818
+dalip shah,10264.75,3819
+monika chorasiya,10262.5,3820
+kum savitri,10260.5,3821
+gutam,10257.75,3822
+smt. kushma devi,10255.25,3823
+rajesh singh,10254.75,3824
+satyadev,10254.0,3825
+khushbhu,10250.75,3826
+nirjala,10250.5,3827
+dipti,10249.0,3828
+mudsay,10248.25,3829
+antim,10247.5,3830
+sweta tamka,10245.75,3831
+afrina,10245.75,3831
+samsad,10241.75,3833
+kailash kour d/0 pooran r/o ghamudki ps sikri,10239.25,3834
+reena saini,10236.0,3835
+komal kumari,10234.5,3836
+geetu,10233.75,3837
+mrs. nidhi,10233.5,3838
+sajia,10229.5,3839
+govind,10229.5,3839
+manisha @ yogita,10224.5,3841
+alapna,10224.5,3841
+hema devi,10223.5,3843
+inderjeet kour,10222.5,3844
+chanderkanta,10222.0,3845
+rinku malav,10221.0,3846
+kasish w/o,10216.25,3847
+reema rajpoot,10214.5,3848
+ram pyare,10213.5,3849
+preeti gupta,10213.5,3849
+sano devi,10213.0,3851
+bhaggo devi,10212.75,3852
+kumari sahista,10212.25,3853
+suman singh chauhan,10212.0,3854
+lavtar singh,10211.75,3855
+raja devi,10211.25,3856
+sahnaz,10210.5,3857
+gulsha @ seema,10210.5,3857
+ikramuddin,10208.25,3859
+nitin,10208.0,3860
+iarfan mohammad,10207.5,3861
+chander shaker,10207.25,3862
+fuli paagdiya,10206.25,3863
+rukmani bai,10206.25,3863
+rinesh,10206.25,3863
+khusbhoo,10205.75,3866
+aditi,10204.25,3867
+vikas,10203.25,3868
+abhay,10199.75,3869
+nipam,10199.75,3869
+nirja,10198.75,3871
+subhdra kumar,10198.25,3872
+annu @ anita,10195.0,3873
+moni devi,10193.0,3874
+sut. suman khatik,10192.0,3875
+mona verma,10190.25,3876
+sheela kumari,10189.5,3877
+nootan prakash yadav,10189.25,3878
+bhuli merutha,10183.5,3879
+km0 mamta,10183.25,3880
+midhana sahani,10180.0,3881
+ranjnika jat,10180.0,3881
+suman rani,10179.75,3883
+jenab parvin,10177.75,3884
+damanjeet singh,10177.5,3885
+amrit patel,10174.75,3886
+swati thakur,10172.75,3887
+satbir kaur,10169.25,3888
+kiran ravtela,10166.75,3889
+lilima @ manshi,10165.75,3890
+radha d/o,10165.25,3891
+ku- sonu,10165.0,3892
+vidha baghel,10164.25,3893
+lalita gameti,10163.75,3894
+lalita bai,10159.75,3895
+narbada,10159.25,3896
+mumtaz @ babi,10159.0,3897
+devi sharma,10158.75,3898
+priya kmari maurya,10158.5,3899
+smt munna kumari,10157.5,3900
+meenu singh,10156.25,3901
+hamsiran,10155.75,3902
+sarswati,10154.5,3903
+mehronisha,10153.5,3904
+smt lalidavi,10151.25,3905
+rubby,10150.0,3906
+minakchi,10149.75,3907
+amuda,10147.25,3908
+rashid@robhi,10144.5,3909
+shabina khan,10143.25,3910
+nahid @ shabia,10139.25,3911
+senthia,10138.5,3912
+jamee,10135.0,3913
+aamir,10134.0,3914
+hena praveen,10133.5,3915
+nahid,10132.0,3916
+arshla,10131.75,3917
+rikkenchi,10129.75,3918
+rajbala,10127.25,3919
+geeta d/o raj kumar,10126.0,3920
+shabra,10124.25,3921
+farha parvin,10123.5,3922
+pushapa,10119.25,3923
+"kanya bai with her 1,1/2 yr. child(girl)",10118.25,3924
+bilkis,10117.25,3925
+sabina bano,10115.75,3926
+charan jeet singh,10110.0,3927
+sambhu,10106.5,3928
+ku. seetal rawat,10104.25,3929
+hemani,10104.0,3930
+payal ahari,10104.0,3930
+maya lakhera,10102.75,3932
+sunaki w/o kallu,10102.0,3933
+gulnanj,10098.75,3934
+payal kumari,10098.25,3935
+shilpi kumari,10094.25,3936
+smt kanchan devi,10092.0,3937
+mithlesh kumari,10091.5,3938
+rishma ali,10091.25,3939
+vasu nanoma,10090.0,3940
+geeta saini,10089.75,3941
+tamsa,10087.25,3942
+anita gop,10086.75,3943
+taruna,10082.25,3944
+kastoori,10082.25,3944
+sawana parveen,10081.75,3946
+raman,10081.5,3947
+geeta oram,10080.5,3948
+garima sharma,10079.25,3949
+pintu thakur,10079.0,3950
+kanchan chaudhary,10078.75,3951
+resham yadav,10077.5,3952
+gendi bai,10077.25,3953
+miss elvis sianhoimuan,10077.25,3953
+sona sood,10077.0,3955
+rukshana khatun,10074.5,3956
+noor jala,10074.25,3957
+simmi,10072.25,3958
+tajinder kaur,10072.25,3958
+kumari guddi,10071.5,3960
+priyanka - pinki,10065.25,3961
+farida begam,10058.75,3962
+smt. bholi devi,10057.5,3963
+neha  gupta,10056.5,3964
+rashmi @ rinku,10054.0,3965
+aasish  kumar,10054.0,3965
+anjali juneja,10053.25,3967
+mashli,10051.5,3968
+shikha haldar,10048.5,3969
+phoolmani,10045.25,3970
+kumari anju rawat,10044.75,3971
+manish kumar saket,10043.25,3972
+sunita @ jyoti,10041.5,3973
+savia,10040.75,3974
+onginye gift okofor,10040.25,3975
+mairi jeems,10039.75,3976
+smt. noorjahan,10034.75,3977
+laxmikant @kaka,10030.75,3978
+fuljhadi & rubby,10027.5,3979
+smt. chancal,10027.0,3980
+shaving khatoon,10026.25,3981
+gajala parveen,10025.75,3982
+sunayna,10019.25,3983
+smt. sumitra,10018.5,3984
+noor jah,10018.0,3985
+kaifiya siddaki,10015.0,3986
+komal @ kumkum,10011.75,3987
+raghuvinder kaur bhatia,10011.5,3988
+gulam rashul,10011.25,3989
+maya @ neha,10008.25,3990
+veshali,10006.75,3991
+fasrun nisha,10006.0,3992
+shazida,10004.25,3993
+ravi kumar,10002.5,3994
+charan singh,10001.0,3995
+laxmi kumari,9999.5,3996
+smt kusum davi,9998.5,3997
+smt sanju,9997.75,3998
+binnu,9995.5,3999
+parth madan,9993.25,4000
+ruckmani,9992.25,4001
+sunita rani,9991.5,4002
+doli with two child adtiya & golu,9991.5,4002
+geeta @ nazma,9989.75,4004
+shahrish,9989.5,4005
+smt. mohani devi,9989.5,4005
+tanya,9987.25,4007
+puja sawariya,9985.75,4008
+pinki chanda,9985.5,4009
+durgesh,9984.0,4010
+khumlo maria goretti,9982.5,4011
+tufail,9982.25,4012
+khushbu lohar,9980.5,4013
+prati,9980.0,4014
+bhupender,9974.0,4015
+sanju bai,9970.5,4016
+rajkarnta,9970.0,4017
+ziyabul,9965.75,4018
+sonu devi,9965.0,4019
+suneta,9960.0,4020
+hemanti aary,9960.0,4020
+farjana banu,9955.25,4022
+mohd faijan,9954.5,4023
+kumari rachana,9953.75,4024
+mjudi,9952.25,4025
+asha & harshita,9951.5,4026
+ruji khatun,9950.0,4027
+preti,9949.0,4028
+smt rajdulari,9947.5,4029
+shankar,9946.0,4030
+smt mahima bajaj,9945.5,4031
+sujanti,9944.0,4032
+sona sarkar,9940.75,4033
+som dutt,9940.25,4034
+kusumlata,9940.25,4034
+babalu sen,9936.25,4036
+geeta rani barman,9932.25,4037
+gautam kumar,9927.5,4038
+nisha sharma,9923.0,4039
+leela daroga,9922.75,4040
+sheensar pal,9922.0,4041
+ashman praveen,9919.75,4042
+parwati rawat,9919.0,4043
+samya,9918.75,4044
+kalpna singh,9918.25,4045
+padma devi,9915.75,4046
+phalguni,9915.25,4047
+jina,9914.5,4048
+priyanka rani,9913.5,4049
+samaiali,9912.5,4050
+aansi devi,9909.0,4051
+mehnaj,9905.75,4052
+ambika panwan,9903.75,4053
+ravinder kaur @ simmy,9899.25,4054
+khanchan,9898.25,4055
+smt. sita,9896.75,4056
+jitendra singh,9896.5,4057
+ku rube,9895.25,4058
+nirmla koli,9892.75,4059
+kumari monki,9892.0,4060
+tumpa,9888.25,4061
+smt deepanshi,9881.75,4062
+smt ritu devi,9881.5,4063
+kala bai d/o ramswroop nayak bhopa,9881.25,4064
+nisha @ ninu,9879.75,4065
+mushrraf,9878.25,4066
+deepika kumari,9878.0,4067
+anshu d/o,9878.0,4067
+kasumbi,9877.0,4069
+jasmen,9872.25,4070
+gulshtab,9871.25,4071
+babli sharma,9870.25,4072
+smt hasmi,9869.0,4073
+sashi mittal,9867.25,4074
+novisha,9867.0,4075
+yinita,9864.75,4076
+saaniya,9862.25,4077
+barti,9862.0,4078
+rena,9861.75,4079
+jhumki,9861.5,4080
+suman shakawat,9860.0,4081
+hemlata @ makku,9858.25,4082
+kawal kumari,9855.0,4083
+smt shanu,9853.75,4084
+maina @ meenu,9853.5,4085
+shankuntla,9850.25,4086
+prateek kumar tiwari,9849.5,4087
+mehwish,9845.0,4088
+danwati,9842.75,4089
+aktri aapa,9842.25,4090
+lakhe sari gaur,9840.75,4091
+smt pari bai,9840.75,4091
+sonu jangir,9839.5,4093
+ekta chauhan,9839.25,4094
+aasto,9838.75,4095
+yuvraj kumar,9838.0,4096
+payal jain,9835.75,4097
+saroja w/o,9833.75,4098
+pinki sharma,9832.75,4099
+sanjna @ sunita,9832.75,4099
+pooja  d/o,9831.75,4101
+ruhi khatoon,9829.25,4102
+priti suman,9828.5,4103
+kmo reshma,9828.5,4103
+gulshan jha,9827.75,4105
+vivek sharma,9827.5,4106
+sweta d/o radheshyam,9827.5,4106
+jagrti,9826.5,4108
+molu,9825.0,4109
+nisha singh,9822.5,4110
+rukmani devi @rupa,9820.75,4111
+chhaterwati,9817.75,4112
+shiva singh,9816.25,4113
+nekki,9814.75,4114
+anita with her 2 children namely ramesh and siraj,9814.5,4115
+smt. savita devi,9813.25,4116
+kumari meera,9811.75,4117
+nabila,9808.5,4118
+anjali @ babli,9808.25,4119
+gul afshan,9806.5,4120
+vandana sharma,9806.5,4120
+meenu bahadur,9805.75,4122
+chhotu harijan,9804.0,4123
+sayra,9803.0,4124
+kesha,9801.25,4125
+jaismeen,9801.0,4126
+santna,9799.5,4127
+roshni devi,9799.25,4128
+pinki  bai,9796.5,4129
+girishi chand,9791.25,4130
+kooki,9786.25,4131
+sandhya mishara,9782.25,4132
+vidya,9779.25,4133
+"jhingi d/o hago barjo r/o vill. murchi, post+p.s.",9775.0,4134
+nikhil,9772.75,4135
+bhawana kapoor,9770.5,4136
+sayari,9768.75,4137
+anjali @ nanu,9768.75,4137
+hadisha,9764.75,4139
+poonam mishra,9764.25,4140
+paro,9761.75,4141
+ravena,9759.5,4142
+sujeet kumar,9759.0,4143
+faimuddin,9758.75,4144
+nanda meena,9758.25,4145
+sharda kharadi,9758.0,4146
+kum usmani,9757.0,4147
+ramesh  dutt,9752.75,4148
+meena begum,9751.75,4149
+smt. shweta gupta,9748.5,4150
+sushmita,9743.25,4151
+preety hans,9741.75,4152
+ku rikha,9741.5,4153
+amar,9741.0,4154
+dariya,9740.5,4155
+jaya parbha @ pooja,9738.5,4156
+tarnum,9730.75,4157
+babali,9727.5,4158
+vijaya devi,9727.5,4158
+chhotelal,9726.75,4160
+komal devi,9725.0,4161
+rekha @ muskan,9723.5,4162
+kishmat,9722.0,4163
+parkash,9720.5,4164
+saridevi,9719.5,4165
+amasi munda,9715.75,4166
+akhilesh,9714.0,4167
+chama ( with child dependeri age 2 years),9714.0,4167
+neelam yadav,9709.5,4169
+shamina,9708.75,4170
+jasvir kaur,9699.0,4171
+chhoti devi,9698.75,4172
+sulochna,9698.0,4173
+md. raju,9697.5,4174
+tarnnum,9696.25,4175
+sukhvir kaur,9695.75,4176
+tamanna banu,9693.5,4177
+salma khatun,9693.25,4178
+kanchan sharma,9692.25,4179
+tabbsum,9691.5,4180
+smt. lalita,9690.75,4181
+smt nitu kumari,9689.5,4182
+sangeeta with son pushapender douter archana,9685.75,4183
+chunni,9685.25,4184
+bhabhiya (with mother namely rakhi),9682.75,4185
+aaftaab husan,9682.0,4186
+smt kaushalya,9681.25,4187
+aishwarya,9679.5,4188
+usha ankar,9679.0,4189
+sanjit misra,9676.5,4190
+kumari priyanka agarwal,9669.5,4191
+kripya minch,9669.5,4191
+kumari vandna,9669.0,4193
+neha suman,9668.25,4194
+gunja devi,9667.0,4195
+bunty,9666.0,4196
+mansha,9664.25,4197
+nasim bano,9660.5,4198
+madan,9657.5,4199
+mamta kakker,9656.0,4200
+bilal malik,9654.75,4201
+husana bano,9654.25,4202
+parash das,9654.0,4203
+km taseem,9654.0,4203
+kanika madan,9653.5,4205
+shiena,9653.25,4206
+seema uraf lalita,9652.0,4207
+rajina biwi,9651.5,4208
+shiva noz,9647.25,4209
+ashshwer parsad,9645.5,4210
+gopal,9644.75,4211
+pari,9644.25,4212
+kamini devi,9643.75,4213
+pulita,9643.5,4214
+gurdeep kaur,9643.5,4214
+raj kumari yadav,9643.5,4214
+lali @ poonam,9642.25,4217
+hiri bai,9639.25,4218
+lalit kathuriya,9639.0,4219
+sawan gupta,9638.5,4220
+km preeti,9631.75,4221
+navita,9631.5,4222
+munni w/o ami lal,9628.0,4223
+urvashi singh,9626.75,4224
+kumari nenu,9624.0,4225
+sna,9619.5,4226
+sima devi,9616.0,4227
+leela kumari,9612.0,4228
+shbana khatun,9603.25,4229
+veera devi,9603.25,4229
+priyanka @ anjali,9602.25,4231
+ramjan khan,9600.75,4232
+murshida,9600.0,4233
+priyak davi,9599.25,4234
+smt. gayatri,9597.0,4235
+anarkali,9596.25,4236
+renu rajawat,9595.5,4237
+mercy,9594.75,4238
+babita devi,9593.75,4239
+frra,9592.25,4240
+mnisha,9590.5,4241
+varda khan,9590.25,4242
+jaspreet,9589.5,4243
+rita rani,9587.75,4244
+smt saraswati devi,9587.0,4245
+sana fatma,9586.0,4246
+hardeep @ hunny,9583.0,4247
+shehnaz @ ravina,9581.0,4248
+indira devi,9574.25,4249
+nazia firdosh @ khushboo,9573.0,4250
+mohd khairul,9572.0,4251
+gaura kuletha,9569.75,4252
+bhawna @ sonam,9563.25,4253
+sangeet,9559.75,4254
+jalil ansari,9556.0,4255
+sabnam@ tinku,9550.5,4256
+miss geeta salvi,9546.75,4257
+baby chauhan w/o govind,9543.5,4258
+nisha kumari,9542.25,4259
+mamoita rai,9538.25,4260
+smt pushpa,9534.5,4261
+sahrul nisha,9517.5,4262
+nutan,9513.25,4263
+minakxi,9505.75,4264
+parbha devi,9505.0,4265
+vijayanta,9504.25,4266
+razia sultan,9502.25,4267
+smt. baikunthi devi,9502.25,4267
+kanak lata,9502.25,4267
+bhateri @ bhawna,9499.25,4270
+smt. munni,9496.5,4271
+manish kumar,9495.5,4272
+tulsa,9493.75,4273
+bhopal singh,9491.5,4274
+nishu kumari,9489.25,4275
+rosina,9485.0,4276
+suhagini,9476.0,4277
+saneha sharma,9473.25,4278
+juneb bano,9468.0,4279
+rachnu,9464.75,4280
+ankit,9462.75,4281
+asha sharma,9461.75,4282
+badarjahan,9461.0,4283
+anjali@rinku,9459.0,4284
+lavi,9457.5,4285
+devi,9456.5,4286
+kokila meena,9455.0,4287
+safila,9452.25,4288
+atta,9450.25,4289
+mariyam khalique,9447.0,4290
+kumari sumaila,9447.0,4290
+ranjana mukharji,9446.75,4292
+suresh,9437.5,4293
+khushboo sharma,9430.75,4294
+shusila devi,9428.75,4295
+rashab,9427.5,4296
+antima,9426.75,4297
+ankush @ shera,9424.75,4298
+natasha,9424.25,4299
+varsha tiwari,9421.0,4300
+nirjla devi,9417.25,4301
+jai kishan,9414.75,4302
+shahzadi,9414.75,4302
+km0 moni,9408.25,4304
+megha alongwith daughter 6 month,9406.0,4305
+bablu regar,9403.5,4306
+dolly @ rekha w/o monto shah,9400.25,4307
+sayara begum,9398.5,4308
+smt shakuntla devi,9396.5,4309
+arman ansari,9396.0,4310
+indra kanwar,9395.75,4311
+pooja panwar,9394.5,4312
+krisana braman,9389.75,4313
+nisha @ sonu,9383.75,4314
+minakshi sharma @ kallo,9383.5,4315
+kiran kaur,9382.5,4316
+ramba @ kamla,9375.5,4317
+deep mala,9367.25,4318
+anjani devi,9365.0,4319
+gautam,9362.25,4320
+isika,9362.0,4321
+anjali kiski,9358.75,4322
+sumalia,9357.5,4323
+sosan devi,9357.0,4324
+kajul choudhry,9352.5,4325
+manish sehrawat,9352.25,4326
+chandra kanwar,9347.5,4327
+ms. k. satya,9346.75,4328
+kumari ritu,9344.75,4329
+kumari santra devi jogi,9334.25,4330
+rahat,9331.75,4331
+santoshi kumari,9326.25,4332
+monika rani,9325.75,4333
+surjeet kaur,9325.0,4334
+shabana begam,9321.0,4335
+gyaan kanwar,9320.25,4336
+rampati gujar,9314.75,4337
+neelam @ munni,9313.5,4338
+chhaya,9300.0,4339
+mukti,9298.75,4340
+kavita @ chanchal,9294.5,4341
+ku. prabha sharma,9292.5,4342
+majrula,9275.5,4343
+baby shine,9271.5,4344
+megha bansal,9271.25,4345
+rekha varhat`,9270.5,4346
+nikhleshwar bhagat,9269.5,4347
+yasodha,9266.25,4348
+arthi,9264.0,4349
+nahani kanwar,9262.25,4350
+zahira,9260.5,4351
+rijakpal,9259.75,4352
+sweta sharma,9254.75,4353
+mony,9250.75,4354
+neelam with 4 years baby sukhmani,9250.25,4355
+smt. choti devi,9249.25,4356
+amrita @ashoda,9248.25,4357
+smt prem devi,9244.0,4358
+parnav kumar,9243.25,4359
+mansi raghav,9243.0,4360
+sararwati,9241.5,4361
+manju @ taruna,9241.5,4361
+rozi sharma,9240.0,4363
+rita d/o laxman,9237.25,4364
+sumirta,9237.25,4364
+huma,9233.25,4366
+priya devi,9230.0,4367
+ankita singh,9222.5,4368
+vijeta sexana,9218.25,4369
+kosalya,9216.75,4370
+deepak goyal,9193.0,4371
+gunjan verna,9190.0,4372
+sunita with her daughter,9185.0,4373
+kiran gupta,9183.5,4374
+hyatun mulla,9182.75,4375
+devyani,9178.25,4376
+harshi,9173.25,4377
+bishun,9172.25,4378
+mahi@munasvi,9169.25,4379
+sahista @ ruksar,9168.25,4380
+anita rajput,9163.0,4381
+kumari pallavi,9161.5,4382
+sonia with her daughter sonikshi age- 3 month,9159.75,4383
+afsha,9158.75,4384
+kumari sabnam,9156.5,4385
+kartik @ kaku,9156.0,4386
+saifali,9147.75,4387
+kavita kumari,9139.5,4388
+kumari bharti,9128.5,4389
+jyoti jingir,9121.0,4390
+heera kumari,9120.75,4391
+manju kumari kalbi,9117.75,4392
+mohsina begum,9112.0,4393
+smt neeraj deve,9110.25,4394
+sadiya,9109.25,4395
+kumari kuljeet kaur,9107.75,4396
+smt nazama,9099.25,4397
+rita roy,9099.0,4398
+km.  shaba,9096.0,4399
+sudershan bala,9094.75,4400
+smt sanjana,9093.5,4401
+seema dangi,9085.75,4402
+smt.laxmi,9084.25,4403
+deeya kumari,9080.5,4404
+geeta rani,9073.75,4405
+renu parcha,9070.25,4406
+jyoti @ pooja,9057.0,4407
+shubham yadav,9056.5,4408
+kiran and maya both sisters,9056.0,4409
+fahija,9051.5,4410
+laxita,9050.5,4411
+smt kailashi,9046.75,4412
+nensi obroy,9043.5,4413
+puja kanvar,9032.5,4414
+shajiya,9021.5,4415
+tania parveen,9014.75,4416
+doly,9010.5,4417
+anju naagar,9001.75,4418
+poonam @ neelam,8999.0,4419
+rinky devi,8980.25,4420
+sanoshi,8977.75,4421
+priyanka das,8975.25,4422
+shilu,8974.75,4423
+rinku d/o harvir singh,8965.75,4424
+priyanka soni,8957.25,4425
+murjina,8946.5,4426
+sonam sania,8934.25,4427
+sita @ pooja,8933.75,4428
+danista paveen,8932.25,4429
+aanamika misra,8929.25,4430
+chinki kanwar,8913.0,4431
+gotiya gurjar,8906.5,4432
+paru devi,8897.75,4433
+jai shree,8897.0,4434
+luxmi,8879.25,4435
+mahesh chand tiwari,8877.25,4436
+sanjay kumar s/o,8869.25,4437
+anoopama,8868.0,4438
+priyanka tirki,8860.0,4439
+miss rachana,8855.5,4440
+subham kumar yadav,8853.0,4441
+mooli,8849.25,4442
+janid minjh,8844.5,4443
+surti kumari,8839.5,4444
+shikha soni,8832.25,4445
+ranjita w/o,8825.75,4446
+narender @ khoti,8824.25,4447
+vanshika,8821.75,4448
+smt ruby devi,8816.5,4449
+komal jaiswal,8812.5,4450
+gauri rana,8809.0,4451
+neha @ neelam,8797.0,4452
+ankita @ mini,8795.5,4453
+anita kunwar,8793.75,4454
+km. pooja,8787.75,4455
+k munni rab,8785.25,4456
+renu bala,8781.0,4457
+vidhya,8779.5,4458
+suraj kumari,8778.75,4459
+abhilasha,8769.25,4460
+kajal d/o,8763.5,4461
+kumari gori,8762.75,4462
+subhash chand bhatia,8761.0,4463
+shanawaz@heena,8750.0,4464
+raj kapoor,8746.75,4465
+pardeep kumar,8730.5,4466
+smt shimla devi,8717.5,4467
+nusrat parveen,8707.0,4468
+kiran bala,8705.0,4469
+smt firdosh,8698.5,4470
+komal @ nidhi,8698.25,4471
+smariti,8689.5,4472
+pooja @ puspa,8689.0,4473
+rekha meena,8678.5,4474
+sudma aggarwal,8672.25,4475
+aarti shaha,8654.5,4476
+kajal @ bulbul,8645.0,4477
+seema     meena,8633.75,4478
+poonam kumari,8633.25,4479
+??0 ??? ?ì,8631.75,4480
+rimzim,8630.0,4481
+reemi sarkar,8626.0,4482
+nazia,8625.75,4483
+aarti pal,8623.75,4484
+shaina,8623.25,4485
+pooja saini,8611.75,4486
+suchita marki,8609.0,4487
+karshana,8608.0,4488
+salmakhatun,8607.5,4489
+kesnata devi @ rajni,8593.5,4490
+smt. monika bajaj,8581.5,4491
+kumari himani,8571.25,4492
+aanik with her son,8568.25,4493
+phulkana,8524.25,4494
+gunjan devi,8512.25,4495
+rahnuma,8506.25,4496
+priya @ sonu,8486.5,4497
+aslam allam,8485.5,4498
+smt.kiswar jahan,8472.75,4499
+kumari sajida,8472.0,4500
+sanjay kumar,8468.75,4501
+smts. rekha,8432.0,4502
+archna marwha,8420.5,4503
+nirvat,8400.0,4504
+sundari,8389.25,4505
+kumari kanta @ kajal,8367.0,4506
+nisha joshi,8347.5,4507
+smt kala,8331.75,4508
+prem chand,8301.5,4509
+rajni dhawan,8280.0,4510
+saweta singh,8277.5,4511
+prakul,8267.75,4512
+pushpa sahu,8261.75,4513
+vijaynti,8258.0,4514
+parerna,8240.0,4515
+farheen,8201.0,4516
+revti,8144.75,4517
+dropti raiger,8138.5,4518
+sujata dhawan,8095.75,4519
+anand,8060.75,4520
+farjana siddaqi,8053.0,4521
+tabbasum,8025.0,4522
+kamala devi,8014.75,4523
+smt. seema pandya,8005.0,4524
+vandhana,7939.75,4525
+mabiya,7914.5,4526
+neha huq,7906.75,4527
+neetu @ guddi,7809.5,4528
+ram ji,7745.5,4529
+krishana yadav,7568.0,4530
+ahsamin @ juhi,7554.25,4531
+smt sujata,7496.25,4532
+meenaxi,7113.5,4533
+bahwana,7105.5,4534
+purva,7081.75,4535
